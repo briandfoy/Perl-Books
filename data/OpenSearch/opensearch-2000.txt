@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:oclcterms="http://purl.org/oclc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+    <title>OCLC Worldcat Search: perl</title>
+    <id>http://worldcat.org/webservices/catalog/search/worldcat/opensearch?q=perl&amp;start=1&amp;count=100&amp;format=atom&amp;wskey=frRPvuujw46ASiTXXdHFwHEkwnAX63soDQMXUA9gLFMPBkO88Th5T71BbGXnP292TZaPTJNIlku5TaCw</id>
+    <updated>2011-11-06T13:15:10-05:00</updated>
+    <subtitle>Search results for perl at http://worldcat.org/webservices/catalog</subtitle>
+    <opensearch:totalResults>10531</opensearch:totalResults>
+    <opensearch:startIndex>1</opensearch:startIndex>
+    <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+    <opensearch:Query role="request" searchTerms="perl" startPage="1"/>
+    <link rel="alternate" href="http://worldcat.org/webservices/catalog/search/worldcat/opensearch?q=perl&amp;start=1&amp;count=100&amp;wskey=frRPvuujw46ASiTXXdHFwHEkwnAX63soDQMXUA9gLFMPBkO88Th5T71BbGXnP292TZaPTJNIlku5TaCw" type="text/html"/>
+    <link rel="self" href="http://worldcat.org/webservices/catalog/search/worldcat/opensearch?q=perl&amp;start=1&amp;count=100&amp;format=atom&amp;wskey=frRPvuujw46ASiTXXdHFwHEkwnAX63soDQMXUA9gLFMPBkO88Th5T71BbGXnP292TZaPTJNIlku5TaCw" type="application/atom+xml"/>
+    <link rel="first" href="http://worldcat.org/webservices/catalog/search/worldcat/opensearch?q=perl&amp;start=1&amp;count=100&amp;format=atom&amp;wskey=frRPvuujw46ASiTXXdHFwHEkwnAX63soDQMXUA9gLFMPBkO88Th5T71BbGXnP292TZaPTJNIlku5TaCw" type="application/atom+xml"/>
+    <link rel="next" href="http://worldcat.org/webservices/catalog/search/worldcat/opensearch?q=perl&amp;start=101&amp;count=100&amp;format=atom&amp;wskey=frRPvuujw46ASiTXXdHFwHEkwnAX63soDQMXUA9gLFMPBkO88Th5T71BbGXnP292TZaPTJNIlku5TaCw" type="application/atom+xml"/>
+    <link rel="last" href="http://worldcat.org/webservices/catalog/search/worldcat/opensearch?q=perl&amp;start=10531&amp;count=100&amp;format=atom&amp;wskey=frRPvuujw46ASiTXXdHFwHEkwnAX63soDQMXUA9gLFMPBkO88Th5T71BbGXnP292TZaPTJNIlku5TaCw" type="application/atom+xml"/>
+    <link rel="search" type="application/opensearchdescription+xml" href="http://worldcat.org/webservices/catalog/opensearch.description.xml"/>
+    <entry>
+        <author>
+            <name>Schwartz, Randal L.</name>
+        </author>
+        <title>Learning Perl</title>
+        <link href="http://worldcat.org/oclc/42854427"/>
+        <id>http://worldcat.org/oclc/42854427</id>
+        <updated>2011-10-24T18:42:52Z</updated>
+        <dc:identifier>urn:ISBN:058503060X</dc:identifier>
+        <dc:identifier>urn:ISBN:9780585030609</dc:identifier>
+        <oclcterms:recordIdentifier>42854427</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Wall, Larry.</name>
+        </author>
+        <title>Programming Perl</title>
+        <link href="http://worldcat.org/oclc/44425562"/>
+        <id>http://worldcat.org/oclc/44425562</id>
+        <updated>2011-11-02T18:40:58Z</updated>
+        <dc:identifier>urn:ISBN:0596000278</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596000271</dc:identifier>
+        <dc:identifier>urn:LCCN:00055799</dc:identifier>
+        <oclcterms:recordIdentifier>44425562</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Bate, Leslie.</name>
+        </author>
+        <title>Perl</title>
+        <link href="http://worldcat.org/oclc/48362887"/>
+        <id>http://worldcat.org/oclc/48362887</id>
+        <updated>2011-03-25T08:11:09Z</updated>
+        <dc:identifier>urn:ISBN:1931841179</dc:identifier>
+        <dc:identifier>urn:ISBN:9781931841177</dc:identifier>
+        <oclcterms:recordIdentifier>48362887</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name/>
+        </author>
+        <title>Perl</title>
+        <link href="http://worldcat.org/oclc/55755155"/>
+        <id>http://worldcat.org/oclc/55755155</id>
+        <updated>2011-08-22T22:09:28Z</updated>
+        <dc:identifier>urn:ISBN:1571760776</dc:identifier>
+        <dc:identifier>urn:ISBN:9781571760777</dc:identifier>
+        <dc:identifier>urn:LCCN:97802848</dc:identifier>
+        <oclcterms:recordIdentifier>55755155</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Christiansen, Tom.</name>
+        </author>
+        <title>Perl cookbook</title>
+        <link href="http://worldcat.org/oclc/44960395"/>
+        <id>http://worldcat.org/oclc/44960395</id>
+        <updated>2011-10-26T11:58:57Z</updated>
+        <dc:identifier>urn:ISBN:1565929705</dc:identifier>
+        <dc:identifier>urn:ISBN:9781565929708</dc:identifier>
+        <oclcterms:recordIdentifier>44960395</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Descartes, Alligator.</name>
+        </author>
+        <title>Programming the Perl DBI</title>
+        <link href="http://worldcat.org/oclc/45728636"/>
+        <id>http://worldcat.org/oclc/45728636</id>
+        <updated>2011-10-26T22:25:00Z</updated>
+        <dc:identifier>urn:ISBN:1565929756</dc:identifier>
+        <dc:identifier>urn:ISBN:9781565929753</dc:identifier>
+        <oclcterms:recordIdentifier>45728636</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Peschko, Ed.</name>
+        </author>
+        <title>Perl 5 complete</title>
+        <link href="http://worldcat.org/oclc/44961993"/>
+        <id>http://worldcat.org/oclc/44961993</id>
+        <updated>2011-10-26T13:53:50Z</updated>
+        <dc:identifier>urn:ISBN:058503902X</dc:identifier>
+        <dc:identifier>urn:ISBN:9780585039022</dc:identifier>
+        <oclcterms:recordIdentifier>44961993</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Lemay, Laura.</name>
+        </author>
+        <title>Sams teach yourself Perl in 21 days</title>
+        <link href="http://worldcat.org/oclc/45731815"/>
+        <id>http://worldcat.org/oclc/45731815</id>
+        <updated>2011-10-24T12:21:59Z</updated>
+        <dc:identifier>urn:ISBN:0585133379</dc:identifier>
+        <dc:identifier>urn:ISBN:9780585133379</dc:identifier>
+        <oclcterms:recordIdentifier>45731815</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Hanegan, Kevin.</name>
+        </author>
+        <title>Custom CGI scripting with Perl</title>
+        <link href="http://worldcat.org/oclc/48139735"/>
+        <id>http://worldcat.org/oclc/48139735</id>
+        <updated>2011-10-25T13:53:09Z</updated>
+        <dc:identifier>urn:ISBN:047101379X</dc:identifier>
+        <dc:identifier>urn:ISBN:9780471013792</dc:identifier>
+        <oclcterms:recordIdentifier>48139735</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Brown, Martin C.</name>
+        </author>
+        <title>Perl the complete reference</title>
+        <link href="http://worldcat.org/oclc/49570071"/>
+        <id>http://worldcat.org/oclc/49570071</id>
+        <updated>2011-10-26T11:34:21Z</updated>
+        <dc:identifier>urn:ISBN:0072194251</dc:identifier>
+        <dc:identifier>urn:ISBN:9780072194258</dc:identifier>
+        <oclcterms:recordIdentifier>49570071</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Wainwright, Peter.</name>
+        </author>
+        <title>Pro Perl</title>
+        <link href="http://worldcat.org/oclc/262677716"/>
+        <id>http://worldcat.org/oclc/262677716</id>
+        <updated>2011-10-28T21:12:42Z</updated>
+        <dc:identifier>urn:ISBN:9781430200147</dc:identifier>
+        <dc:identifier>urn:ISBN:1430200146</dc:identifier>
+        <dc:identifier>urn:ISBN:6610656967</dc:identifier>
+        <dc:identifier>urn:ISBN:159059438X</dc:identifier>
+        <dc:identifier>urn:ISBN:9781590594384</dc:identifier>
+        <dc:identifier>urn:ISBN:9786610656967</dc:identifier>
+        <oclcterms:recordIdentifier>262677716</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>Four perfect pebbles : a Holocaust story</title>
+        <link href="http://worldcat.org/oclc/32166304"/>
+        <id>http://worldcat.org/oclc/32166304</id>
+        <updated>2011-09-10T04:40:18Z</updated>
+        <dc:identifier>urn:ISBN:068814294X</dc:identifier>
+        <dc:identifier>urn:ISBN:9780688142940</dc:identifier>
+        <dc:identifier>urn:LCCN:95009752</dc:identifier>
+        <oclcterms:recordIdentifier>32166304</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>Mummies, tombs, and treasure : secrets of Ancient Egypt</title>
+        <link href="http://worldcat.org/oclc/13860832"/>
+        <id>http://worldcat.org/oclc/13860832</id>
+        <updated>2010-12-16T00:53:11Z</updated>
+        <dc:identifier>urn:ISBN:0899194079</dc:identifier>
+        <dc:identifier>urn:ISBN:9780899194073</dc:identifier>
+        <dc:identifier>urn:LCCN:86017646</dc:identifier>
+        <oclcterms:recordIdentifier>13860832</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Schwartz, Randal L.</name>
+        </author>
+        <title>Learning Perl on Win32 systems</title>
+        <link href="http://worldcat.org/oclc/42854299"/>
+        <id>http://worldcat.org/oclc/42854299</id>
+        <updated>2011-10-24T18:29:47Z</updated>
+        <dc:identifier>urn:ISBN:0585026424</dc:identifier>
+        <dc:identifier>urn:ISBN:9780585026428</dc:identifier>
+        <oclcterms:recordIdentifier>42854299</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Schwartz, Randal L.</name>
+        </author>
+        <title>Intermediate Perl</title>
+        <link href="http://worldcat.org/oclc/64666983"/>
+        <id>http://worldcat.org/oclc/64666983</id>
+        <updated>2010-05-09T07:20:05Z</updated>
+        <dc:identifier>urn:ISBN:0596102062</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596102067</dc:identifier>
+        <oclcterms:recordIdentifier>64666983</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Foy, Brian D.</name>
+        </author>
+        <title>Mastering Perl</title>
+        <link href="http://worldcat.org/oclc/177827703"/>
+        <id>http://worldcat.org/oclc/177827703</id>
+        <updated>2010-11-23T07:40:35Z</updated>
+        <dc:identifier>urn:ISBN:9780596527242</dc:identifier>
+        <dc:identifier>urn:ISBN:0596527241</dc:identifier>
+        <dc:identifier>urn:LCCN:2007278092</dc:identifier>
+        <oclcterms:recordIdentifier>177827703</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Lee, James, 1962-</name>
+        </author>
+        <title>Beginning Perl</title>
+        <link href="http://worldcat.org/oclc/654381984"/>
+        <id>http://worldcat.org/oclc/654381984</id>
+        <updated>2011-09-16T14:51:23Z</updated>
+        <dc:identifier>urn:ISBN:9781430227946</dc:identifier>
+        <dc:identifier>urn:ISBN:143022794X</dc:identifier>
+        <oclcterms:recordIdentifier>654381984</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>Blue Monday and Friday the Thirteenth</title>
+        <link href="http://worldcat.org/oclc/12216385"/>
+        <id>http://worldcat.org/oclc/12216385</id>
+        <updated>2011-07-04T01:51:58Z</updated>
+        <dc:identifier>urn:ISBN:0899193277</dc:identifier>
+        <dc:identifier>urn:ISBN:9780899193274</dc:identifier>
+        <dc:identifier>urn:LCCN:85013051</dc:identifier>
+        <oclcterms:recordIdentifier>12216385</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Srinivasan, Sriram.</name>
+        </author>
+        <title>Advanced Perl programming</title>
+        <link href="http://worldcat.org/oclc/37613096"/>
+        <id>http://worldcat.org/oclc/37613096</id>
+        <updated>2011-07-30T14:13:16Z</updated>
+        <dc:identifier>urn:ISBN:1565922204</dc:identifier>
+        <dc:identifier>urn:ISBN:9781565922204</dc:identifier>
+        <dc:identifier>urn:LCCN:97202127</dc:identifier>
+        <oclcterms:recordIdentifier>37613096</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Chromatic.</name>
+        </author>
+        <title>Perl hacks</title>
+        <link href="http://worldcat.org/oclc/69920413"/>
+        <id>http://worldcat.org/oclc/69920413</id>
+        <updated>2011-08-01T17:09:30Z</updated>
+        <dc:identifier>urn:ISBN:0596526741</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596526740</dc:identifier>
+        <dc:identifier>urn:LCCN:2006283499</dc:identifier>
+        <oclcterms:recordIdentifier>69920413</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Foster-Johnson, Eric.</name>
+        </author>
+        <title>Cross-platform Perl</title>
+        <link href="http://worldcat.org/oclc/35223143"/>
+        <id>http://worldcat.org/oclc/35223143</id>
+        <updated>2008-04-07T21:46:31Z</updated>
+        <dc:identifier>urn:ISBN:155851483X</dc:identifier>
+        <dc:identifier>urn:ISBN:9781558514836</dc:identifier>
+        <dc:identifier>urn:LCCN:96035498</dc:identifier>
+        <oclcterms:recordIdentifier>35223143</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Teri.</name>
+        </author>
+        <title>Math equals : biographies of women mathematicians+related activities</title>
+        <link href="http://worldcat.org/oclc/4215579"/>
+        <id>http://worldcat.org/oclc/4215579</id>
+        <updated>2011-09-20T09:56:11Z</updated>
+        <dc:identifier>urn:ISBN:0201057093</dc:identifier>
+        <dc:identifier>urn:ISBN:9780201057096</dc:identifier>
+        <dc:identifier>urn:LCCN:78110110</dc:identifier>
+        <oclcterms:recordIdentifier>4215579</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Orwant, Jon.</name>
+        </author>
+        <title>Mastering algorithms with Perl</title>
+        <link href="http://worldcat.org/oclc/47008707"/>
+        <id>http://worldcat.org/oclc/47008707</id>
+        <updated>2011-10-24T23:22:14Z</updated>
+        <dc:identifier>urn:ISBN:1565929659</dc:identifier>
+        <dc:identifier>urn:ISBN:9781565929654</dc:identifier>
+        <oclcterms:recordIdentifier>47008707</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>The great ancestor hunt : the fun of finding out who you are</title>
+        <link href="http://worldcat.org/oclc/19130546"/>
+        <id>http://worldcat.org/oclc/19130546</id>
+        <updated>2011-07-27T20:51:07Z</updated>
+        <dc:identifier>urn:ISBN:0899197450</dc:identifier>
+        <dc:identifier>urn:ISBN:9780899197456</dc:identifier>
+        <dc:identifier>urn:ISBN:0395547903</dc:identifier>
+        <dc:identifier>urn:ISBN:9780395547908</dc:identifier>
+        <dc:identifier>urn:LCCN:88036211</dc:identifier>
+        <oclcterms:recordIdentifier>19130546</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Siever, Ellen.</name>
+        </author>
+        <title>Perl in a nutshell a desktop quick reference</title>
+        <link href="http://worldcat.org/oclc/44959922"/>
+        <id>http://worldcat.org/oclc/44959922</id>
+        <updated>2011-10-26T11:25:35Z</updated>
+        <dc:identifier>urn:ISBN:1565929713</dc:identifier>
+        <dc:identifier>urn:ISBN:9781565929715</dc:identifier>
+        <oclcterms:recordIdentifier>44959922</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Guelich, Scott.</name>
+        </author>
+        <title>CGI programming with Perl</title>
+        <link href="http://worldcat.org/oclc/44128510"/>
+        <id>http://worldcat.org/oclc/44128510</id>
+        <updated>2011-04-14T11:02:06Z</updated>
+        <dc:identifier>urn:ISBN:1565924193</dc:identifier>
+        <dc:identifier>urn:ISBN:9781565924192</dc:identifier>
+        <dc:identifier>urn:LCCN:00041664</dc:identifier>
+        <oclcterms:recordIdentifier>44128510</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Cozens, Simon.</name>
+        </author>
+        <title>Beginning perl</title>
+        <link href="http://worldcat.org/oclc/44622152"/>
+        <id>http://worldcat.org/oclc/44622152</id>
+        <updated>2011-03-25T02:45:37Z</updated>
+        <dc:identifier>urn:ISBN:1861003145</dc:identifier>
+        <dc:identifier>urn:ISBN:9781861003140</dc:identifier>
+        <dc:identifier>urn:LCCN:2002327970</dc:identifier>
+        <oclcterms:recordIdentifier>44622152</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Quigley, Ellie.</name>
+        </author>
+        <title>PERL by example</title>
+        <link href="http://worldcat.org/oclc/31046110"/>
+        <id>http://worldcat.org/oclc/31046110</id>
+        <updated>2011-03-24T17:27:41Z</updated>
+        <dc:identifier>urn:ISBN:0131228390</dc:identifier>
+        <dc:identifier>urn:ISBN:9780131228399</dc:identifier>
+        <dc:identifier>urn:LCCN:94035062</dc:identifier>
+        <oclcterms:recordIdentifier>31046110</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Wong, Clinton.</name>
+        </author>
+        <title>Web client programming with Perl</title>
+        <link href="http://worldcat.org/oclc/43474548"/>
+        <id>http://worldcat.org/oclc/43474548</id>
+        <updated>2011-10-24T23:15:30Z</updated>
+        <dc:identifier>urn:ISBN:0585032238</dc:identifier>
+        <dc:identifier>urn:ISBN:9780585032238</dc:identifier>
+        <oclcterms:recordIdentifier>43474548</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>McMahan, Scott.</name>
+        </author>
+        <title>Automating Windows with Perl</title>
+        <link href="http://worldcat.org/oclc/47007921"/>
+        <id>http://worldcat.org/oclc/47007921</id>
+        <updated>2011-10-24T22:02:46Z</updated>
+        <dc:identifier>urn:ISBN:1929629621</dc:identifier>
+        <dc:identifier>urn:ISBN:9781929629626</dc:identifier>
+        <oclcterms:recordIdentifier>47007921</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>Piñatas and paper flowers : holidays of the Americas in English and Spanish = Piñatas y flores de papel : fiestas de las Americás en inglés y español</title>
+        <link href="http://worldcat.org/oclc/8171058"/>
+        <id>http://worldcat.org/oclc/8171058</id>
+        <updated>2010-12-15T21:14:06Z</updated>
+        <dc:identifier>urn:ISBN:0899191126</dc:identifier>
+        <dc:identifier>urn:ISBN:9780899191126</dc:identifier>
+        <dc:identifier>urn:ISBN:089919155X</dc:identifier>
+        <dc:identifier>urn:ISBN:9780899191553</dc:identifier>
+        <dc:identifier>urn:LCCN:82001211</dc:identifier>
+        <oclcterms:recordIdentifier>8171058</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>Candles, cakes, and donkey tails : birthday symbols and celebrations</title>
+        <link href="http://worldcat.org/oclc/10558703"/>
+        <id>http://worldcat.org/oclc/10558703</id>
+        <updated>2008-04-01T11:12:38Z</updated>
+        <dc:identifier>urn:ISBN:0899192505</dc:identifier>
+        <dc:identifier>urn:ISBN:9780899192505</dc:identifier>
+        <dc:identifier>urn:LCCN:84005803</dc:identifier>
+        <oclcterms:recordIdentifier>10558703</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Bate, Les.</name>
+        </author>
+        <title>Perl Web development</title>
+        <link href="http://worldcat.org/oclc/52631849"/>
+        <id>http://worldcat.org/oclc/52631849</id>
+        <updated>2011-10-25T12:22:45Z</updated>
+        <dc:identifier>urn:ISBN:058545678X</dc:identifier>
+        <dc:identifier>urn:ISBN:9780585456782</dc:identifier>
+        <oclcterms:recordIdentifier>52631849</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Tisdall, James D.</name>
+        </author>
+        <title>Beginning Perl for bioinformatics</title>
+        <link href="http://worldcat.org/oclc/49583667"/>
+        <id>http://worldcat.org/oclc/49583667</id>
+        <updated>2011-09-08T03:09:51Z</updated>
+        <dc:identifier>urn:ISBN:0596000804</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596000806</dc:identifier>
+        <dc:identifier>urn:LCCN:2002277715</dc:identifier>
+        <oclcterms:recordIdentifier>49583667</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>Slumps, grunts, and snickerdoodles : what Colonial America ate and why</title>
+        <link href="http://worldcat.org/oclc/1230585"/>
+        <id>http://worldcat.org/oclc/1230585</id>
+        <updated>2010-06-30T09:37:05Z</updated>
+        <dc:identifier>urn:ISBN:0816431523</dc:identifier>
+        <dc:identifier>urn:ISBN:9780816431526</dc:identifier>
+        <dc:identifier>urn:ISBN:0395289238</dc:identifier>
+        <dc:identifier>urn:ISBN:9780395289235</dc:identifier>
+        <dc:identifier>urn:LCCN:75004894</dc:identifier>
+        <oclcterms:recordIdentifier>1230585</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Conway, Damian, 1964-</name>
+        </author>
+        <title>Perl best practices</title>
+        <link href="http://worldcat.org/oclc/61231154"/>
+        <id>http://worldcat.org/oclc/61231154</id>
+        <updated>2010-12-16T18:30:52Z</updated>
+        <dc:identifier>urn:ISBN:0596001738</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596001735</dc:identifier>
+        <dc:identifier>urn:LCCN:2005284585</dc:identifier>
+        <oclcterms:recordIdentifier>61231154</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>Hunter's stew and hangtown fry, what pioneer America ate and why</title>
+        <link href="http://worldcat.org/oclc/2873391"/>
+        <id>http://worldcat.org/oclc/2873391</id>
+        <updated>2010-08-26T17:56:05Z</updated>
+        <dc:identifier>urn:ISBN:0816432007</dc:identifier>
+        <dc:identifier>urn:ISBN:9780816432004</dc:identifier>
+        <dc:identifier>urn:LCCN:77005366</dc:identifier>
+        <oclcterms:recordIdentifier>2873391</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Jed.</name>
+        </author>
+        <title>New art city</title>
+        <link href="http://worldcat.org/oclc/55887481"/>
+        <id>http://worldcat.org/oclc/55887481</id>
+        <updated>2011-04-01T15:59:48Z</updated>
+        <dc:identifier>urn:ISBN:1400041317</dc:identifier>
+        <dc:identifier>urn:ISBN:9781400041312</dc:identifier>
+        <dc:identifier>urn:LCCN:2004048846</dc:identifier>
+        <oclcterms:recordIdentifier>55887481</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Patwardhan, Nate.</name>
+        </author>
+        <title>Perl in a nutshell</title>
+        <link href="http://worldcat.org/oclc/49618610"/>
+        <id>http://worldcat.org/oclc/49618610</id>
+        <updated>2010-12-16T07:40:57Z</updated>
+        <dc:identifier>urn:ISBN:0596002416</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596002411</dc:identifier>
+        <dc:identifier>urn:LCCN:2002068428</dc:identifier>
+        <oclcterms:recordIdentifier>49618610</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>Junk food, fast food, health food : what America eats and why</title>
+        <link href="http://worldcat.org/oclc/6331378"/>
+        <id>http://worldcat.org/oclc/6331378</id>
+        <updated>2011-05-19T12:23:06Z</updated>
+        <dc:identifier>urn:ISBN:0395291089</dc:identifier>
+        <dc:identifier>urn:ISBN:9780395291085</dc:identifier>
+        <dc:identifier>urn:LCCN:80015928</dc:identifier>
+        <oclcterms:recordIdentifier>6331378</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Friedl, Jeffrey E. F.</name>
+        </author>
+        <title>Mastering regular expressions powerful techniques for Perl and other tools</title>
+        <link href="http://worldcat.org/oclc/42922422"/>
+        <id>http://worldcat.org/oclc/42922422</id>
+        <updated>2011-10-24T22:27:19Z</updated>
+        <dc:identifier>urn:ISBN:0585054061</dc:identifier>
+        <dc:identifier>urn:ISBN:9780585054063</dc:identifier>
+        <oclcterms:recordIdentifier>42922422</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Philip.</name>
+        </author>
+        <title>Cacti and succulents</title>
+        <link href="http://worldcat.org/oclc/4297554"/>
+        <id>http://worldcat.org/oclc/4297554</id>
+        <updated>2010-05-28T07:20:46Z</updated>
+        <dc:identifier>urn:LCCN:78058300</dc:identifier>
+        <oclcterms:recordIdentifier>4297554</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Philip.</name>
+        </author>
+        <title>Ferns</title>
+        <link href="http://worldcat.org/oclc/3461475"/>
+        <id>http://worldcat.org/oclc/3461475</id>
+        <updated>2010-05-28T07:14:40Z</updated>
+        <dc:identifier>urn:LCCN:77083154</dc:identifier>
+        <oclcterms:recordIdentifier>3461475</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Hoffman, Paul, 1957-</name>
+        </author>
+        <title>Perl for dummies</title>
+        <link href="http://worldcat.org/oclc/52147963"/>
+        <id>http://worldcat.org/oclc/52147963</id>
+        <updated>2011-07-30T16:07:32Z</updated>
+        <dc:identifier>urn:ISBN:0764537504</dc:identifier>
+        <dc:identifier>urn:ISBN:9780764537509</dc:identifier>
+        <dc:identifier>urn:LCCN:2003101830</dc:identifier>
+        <oclcterms:recordIdentifier>52147963</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Barry, Paul, 1966-</name>
+        </author>
+        <title>Programming the Network with Perl</title>
+        <link href="http://worldcat.org/oclc/51037281"/>
+        <id>http://worldcat.org/oclc/51037281</id>
+        <updated>2011-10-27T08:50:17Z</updated>
+        <dc:identifier>urn:ISBN:047084941X</dc:identifier>
+        <dc:identifier>urn:ISBN:9780470849415</dc:identifier>
+        <oclcterms:recordIdentifier>51037281</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>From top hats to baseball caps, from bustles to blue jeans : why we dress the way we do</title>
+        <link href="http://worldcat.org/oclc/20934789"/>
+        <id>http://worldcat.org/oclc/20934789</id>
+        <updated>2008-06-04T16:44:08Z</updated>
+        <dc:identifier>urn:ISBN:0899198724</dc:identifier>
+        <dc:identifier>urn:ISBN:9780899198729</dc:identifier>
+        <dc:identifier>urn:LCCN:89077717</dc:identifier>
+        <oclcterms:recordIdentifier>20934789</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Cozens, Simon.</name>
+        </author>
+        <title>Advanced Perl programming</title>
+        <link href="http://worldcat.org/oclc/58828415"/>
+        <id>http://worldcat.org/oclc/58828415</id>
+        <updated>2010-04-23T22:00:18Z</updated>
+        <dc:identifier>urn:ISBN:0596004567</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596004569</dc:identifier>
+        <oclcterms:recordIdentifier>58828415</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Frenz, Christopher.</name>
+        </author>
+        <title>Pro Perl parsing</title>
+        <link href="http://worldcat.org/oclc/262680157"/>
+        <id>http://worldcat.org/oclc/262680157</id>
+        <updated>2011-06-01T17:30:58Z</updated>
+        <dc:identifier>urn:ISBN:9781430200499</dc:identifier>
+        <dc:identifier>urn:ISBN:1430200499</dc:identifier>
+        <oclcterms:recordIdentifier>262680157</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Randal, Allison.</name>
+        </author>
+        <title>Perl 6 essentials</title>
+        <link href="http://worldcat.org/oclc/52146170"/>
+        <id>http://worldcat.org/oclc/52146170</id>
+        <updated>2011-04-13T14:03:22Z</updated>
+        <dc:identifier>urn:ISBN:0596004990</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596004996</dc:identifier>
+        <oclcterms:recordIdentifier>52146170</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Conway, Damian, 1964-</name>
+        </author>
+        <title>Object oriented Perl</title>
+        <link href="http://worldcat.org/oclc/41580910"/>
+        <id>http://worldcat.org/oclc/41580910</id>
+        <updated>2011-09-17T19:21:21Z</updated>
+        <dc:identifier>urn:ISBN:1884777791</dc:identifier>
+        <dc:identifier>urn:ISBN:9781884777790</dc:identifier>
+        <dc:identifier>urn:LCCN:99027793</dc:identifier>
+        <oclcterms:recordIdentifier>41580910</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Pierce, Clinton.</name>
+        </author>
+        <title>Sams teach yourself Perl in 24 hours</title>
+        <link href="http://worldcat.org/oclc/60320272"/>
+        <id>http://worldcat.org/oclc/60320272</id>
+        <updated>2011-05-07T15:09:05Z</updated>
+        <dc:identifier>urn:ISBN:0672327937</dc:identifier>
+        <dc:identifier>urn:ISBN:9780672327933</dc:identifier>
+        <dc:identifier>urn:LCCN:2004195543</dc:identifier>
+        <oclcterms:recordIdentifier>60320272</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Nowers, Thomas.</name>
+        </author>
+        <title>Learn Perl in a weekend</title>
+        <link href="http://worldcat.org/oclc/52101435"/>
+        <id>http://worldcat.org/oclc/52101435</id>
+        <updated>2011-10-25T01:39:53Z</updated>
+        <dc:identifier>urn:ISBN:0585439931</dc:identifier>
+        <dc:identifier>urn:ISBN:9780585439938</dc:identifier>
+        <oclcterms:recordIdentifier>52101435</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Ray, Erik T.</name>
+        </author>
+        <title>Perl and XML</title>
+        <link href="http://worldcat.org/oclc/49044536"/>
+        <id>http://worldcat.org/oclc/49044536</id>
+        <updated>2011-03-25T14:52:10Z</updated>
+        <dc:identifier>urn:ISBN:059600205X</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596002053</dc:identifier>
+        <oclcterms:recordIdentifier>49044536</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Tisdall, James D.</name>
+        </author>
+        <title>Mastering Perl for bioinformatics</title>
+        <link href="http://worldcat.org/oclc/51738694"/>
+        <id>http://worldcat.org/oclc/51738694</id>
+        <updated>2011-03-25T11:04:30Z</updated>
+        <dc:identifier>urn:ISBN:0596003072</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596003074</dc:identifier>
+        <oclcterms:recordIdentifier>51738694</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Philip.</name>
+        </author>
+        <title>Miniatures and bonsai</title>
+        <link href="http://worldcat.org/oclc/4516020"/>
+        <id>http://worldcat.org/oclc/4516020</id>
+        <updated>2010-05-28T07:20:48Z</updated>
+        <dc:identifier>urn:ISBN:0809426439</dc:identifier>
+        <dc:identifier>urn:ISBN:9780809426430</dc:identifier>
+        <dc:identifier>urn:ISBN:0809426420</dc:identifier>
+        <dc:identifier>urn:ISBN:9780809426423</dc:identifier>
+        <dc:identifier>urn:LCCN:78020889</dc:identifier>
+        <oclcterms:recordIdentifier>4516020</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Chamberlain, Darren.</name>
+        </author>
+        <title>Perl template toolkit</title>
+        <link href="http://worldcat.org/oclc/53243416"/>
+        <id>http://worldcat.org/oclc/53243416</id>
+        <updated>2011-03-25T13:17:26Z</updated>
+        <dc:identifier>urn:ISBN:0596004761</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596004767</dc:identifier>
+        <oclcterms:recordIdentifier>53243416</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Blank-Edelman, David N.</name>
+        </author>
+        <title>Perl for system administration</title>
+        <link href="http://worldcat.org/oclc/44425560"/>
+        <id>http://worldcat.org/oclc/44425560</id>
+        <updated>2011-04-14T11:11:59Z</updated>
+        <dc:identifier>urn:ISBN:1565926099</dc:identifier>
+        <dc:identifier>urn:ISBN:9781565926097</dc:identifier>
+        <dc:identifier>urn:LCCN:00055770</dc:identifier>
+        <oclcterms:recordIdentifier>44425560</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Vromans, Johan.</name>
+        </author>
+        <title>Perl pocket reference</title>
+        <link href="http://worldcat.org/oclc/50275545"/>
+        <id>http://worldcat.org/oclc/50275545</id>
+        <updated>2011-10-26T02:19:35Z</updated>
+        <dc:identifier>urn:ISBN:0596003749</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596003746</dc:identifier>
+        <oclcterms:recordIdentifier>50275545</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Michalski, Brent.</name>
+        </author>
+        <title>Perl database programming</title>
+        <link href="http://worldcat.org/oclc/51066112"/>
+        <id>http://worldcat.org/oclc/51066112</id>
+        <updated>2010-12-16T14:59:03Z</updated>
+        <dc:identifier>urn:ISBN:0764549561</dc:identifier>
+        <dc:identifier>urn:ISBN:9780764549564</dc:identifier>
+        <dc:identifier>urn:LCCN:2002107900</dc:identifier>
+        <oclcterms:recordIdentifier>51066112</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Burke, Sean M.</name>
+        </author>
+        <title>Perl and LWP</title>
+        <link href="http://worldcat.org/oclc/49844244"/>
+        <id>http://worldcat.org/oclc/49844244</id>
+        <updated>2011-03-25T21:01:51Z</updated>
+        <dc:identifier>urn:ISBN:0596001789</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596001780</dc:identifier>
+        <dc:identifier>urn:LCCN:2002071540</dc:identifier>
+        <oclcterms:recordIdentifier>49844244</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Riehl, Mark.</name>
+        </author>
+        <title>XML and Perl</title>
+        <link href="http://worldcat.org/oclc/50302679"/>
+        <id>http://worldcat.org/oclc/50302679</id>
+        <updated>2011-04-26T08:46:27Z</updated>
+        <dc:identifier>urn:ISBN:0735712891</dc:identifier>
+        <dc:identifier>urn:ISBN:9780735712898</dc:identifier>
+        <dc:identifier>urn:LCCN:2002100786</dc:identifier>
+        <oclcterms:recordIdentifier>50302679</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>That crazy April.</title>
+        <link href="http://worldcat.org/oclc/700969"/>
+        <id>http://worldcat.org/oclc/700969</id>
+        <updated>2010-02-16T05:14:12Z</updated>
+        <dc:identifier>urn:ISBN:0816431175</dc:identifier>
+        <dc:identifier>urn:ISBN:9780816431175</dc:identifier>
+        <dc:identifier>urn:LCCN:73014812</dc:identifier>
+        <oclcterms:recordIdentifier>700969</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Holzner, Steven.</name>
+        </author>
+        <title>Perl black book</title>
+        <link href="http://worldcat.org/oclc/50061495"/>
+        <id>http://worldcat.org/oclc/50061495</id>
+        <updated>2011-05-02T12:06:12Z</updated>
+        <oclcterms:recordIdentifier>50061495</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Hall, Joseph N., 1966-</name>
+        </author>
+        <title>Effective Perl programming : writing better programs with Perl</title>
+        <link href="http://worldcat.org/oclc/37917422"/>
+        <id>http://worldcat.org/oclc/37917422</id>
+        <updated>2010-10-08T11:13:23Z</updated>
+        <dc:identifier>urn:ISBN:0201419750</dc:identifier>
+        <dc:identifier>urn:ISBN:9780201419757</dc:identifier>
+        <dc:identifier>urn:LCCN:97045837</dc:identifier>
+        <oclcterms:recordIdentifier>37917422</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Ray, Randy J.</name>
+        </author>
+        <title>Programming Web services with Perl</title>
+        <link href="http://worldcat.org/oclc/49044534"/>
+        <id>http://worldcat.org/oclc/49044534</id>
+        <updated>2011-03-25T14:52:08Z</updated>
+        <dc:identifier>urn:ISBN:0596002068</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596002060</dc:identifier>
+        <oclcterms:recordIdentifier>49044534</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Stein, Lincoln D., 1960-</name>
+        </author>
+        <title>Network programming with Perl</title>
+        <link href="http://worldcat.org/oclc/45460942"/>
+        <id>http://worldcat.org/oclc/45460942</id>
+        <updated>2011-03-24T21:39:32Z</updated>
+        <dc:identifier>urn:ISBN:0201615711</dc:identifier>
+        <dc:identifier>urn:ISBN:9780201615715</dc:identifier>
+        <dc:identifier>urn:LCCN:00067574</dc:identifier>
+        <oclcterms:recordIdentifier>45460942</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Herrmann, Eric.</name>
+        </author>
+        <title>Mastering Perl 5</title>
+        <link href="http://worldcat.org/oclc/41241465"/>
+        <id>http://worldcat.org/oclc/41241465</id>
+        <updated>2011-03-24T20:26:08Z</updated>
+        <dc:identifier>urn:ISBN:0782122000</dc:identifier>
+        <dc:identifier>urn:ISBN:9780782122008</dc:identifier>
+        <dc:identifier>urn:LCCN:98086868</dc:identifier>
+        <oclcterms:recordIdentifier>41241465</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>It happened in America : true stories from the fifty states</title>
+        <link href="http://worldcat.org/oclc/25409466"/>
+        <id>http://worldcat.org/oclc/25409466</id>
+        <updated>2010-09-01T09:33:24Z</updated>
+        <dc:identifier>urn:ISBN:0805017194</dc:identifier>
+        <dc:identifier>urn:ISBN:9780805017199</dc:identifier>
+        <dc:identifier>urn:LCCN:92006742</dc:identifier>
+        <oclcterms:recordIdentifier>25409466</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Wallace, Shawn P.</name>
+        </author>
+        <title>Perl graphics programming</title>
+        <link href="http://worldcat.org/oclc/51525334"/>
+        <id>http://worldcat.org/oclc/51525334</id>
+        <updated>2011-03-25T23:11:17Z</updated>
+        <dc:identifier>urn:ISBN:059600219X</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596002190</dc:identifier>
+        <oclcterms:recordIdentifier>51525334</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Bilisoly, Roger, 1963-</name>
+        </author>
+        <title>Practical text mining with Perl</title>
+        <link href="http://worldcat.org/oclc/212020725"/>
+        <id>http://worldcat.org/oclc/212020725</id>
+        <updated>2011-09-28T03:26:26Z</updated>
+        <dc:identifier>urn:ISBN:9780470176436</dc:identifier>
+        <dc:identifier>urn:ISBN:0470176431</dc:identifier>
+        <dc:identifier>urn:LCCN:2008008144</dc:identifier>
+        <oclcterms:recordIdentifier>212020725</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Wall, Larry. Siever, Ellen. Perl module reference. Patwardhan, Nate. Programming with Perl modules. Jepson, Brian, 1967- Perl utilities guide.</name>
+        </author>
+        <title>Perl resource kit.</title>
+        <link href="http://worldcat.org/oclc/38270698"/>
+        <id>http://worldcat.org/oclc/38270698</id>
+        <updated>2011-01-11T19:54:27Z</updated>
+        <dc:identifier>urn:LCCN:98143972</dc:identifier>
+        <oclcterms:recordIdentifier>38270698</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>Fat Glenda's summer romance</title>
+        <link href="http://worldcat.org/oclc/13184177"/>
+        <id>http://worldcat.org/oclc/13184177</id>
+        <updated>2011-06-28T11:05:57Z</updated>
+        <dc:identifier>urn:ISBN:0899194478</dc:identifier>
+        <dc:identifier>urn:ISBN:9780899194479</dc:identifier>
+        <dc:identifier>urn:ISBN:0671648578</dc:identifier>
+        <dc:identifier>urn:ISBN:9780671648572</dc:identifier>
+        <dc:identifier>urn:LCCN:86002653</dc:identifier>
+        <oclcterms:recordIdentifier>13184177</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>Me and fat Glenda</title>
+        <link href="http://worldcat.org/oclc/308679"/>
+        <id>http://worldcat.org/oclc/308679</id>
+        <updated>2010-04-27T16:01:15Z</updated>
+        <dc:identifier>urn:ISBN:0816430438</dc:identifier>
+        <dc:identifier>urn:ISBN:9780816430437</dc:identifier>
+        <dc:identifier>urn:ISBN:0395288711</dc:identifier>
+        <dc:identifier>urn:ISBN:9780395288719</dc:identifier>
+        <dc:identifier>urn:LCCN:71179439</dc:identifier>
+        <oclcterms:recordIdentifier>308679</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Saltzman, Michael.</name>
+        </author>
+        <title>Modern Perl programming</title>
+        <link href="http://worldcat.org/oclc/48782470"/>
+        <id>http://worldcat.org/oclc/48782470</id>
+        <updated>2011-03-25T11:40:50Z</updated>
+        <dc:identifier>urn:ISBN:0130089656</dc:identifier>
+        <dc:identifier>urn:ISBN:9780130089656</dc:identifier>
+        <dc:identifier>urn:LCCN:2002280433</dc:identifier>
+        <oclcterms:recordIdentifier>48782470</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>Hey, remember Fat Glenda?</title>
+        <link href="http://worldcat.org/oclc/7206312"/>
+        <id>http://worldcat.org/oclc/7206312</id>
+        <updated>2009-05-30T01:17:45Z</updated>
+        <dc:identifier>urn:ISBN:0395310237</dc:identifier>
+        <dc:identifier>urn:ISBN:9780395310236</dc:identifier>
+        <dc:identifier>urn:LCCN:80028258</dc:identifier>
+        <oclcterms:recordIdentifier>7206312</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Boutell, Thomas.</name>
+        </author>
+        <title>CGI programming in C &amp; Perl</title>
+        <link href="http://worldcat.org/oclc/34191055"/>
+        <id>http://worldcat.org/oclc/34191055</id>
+        <updated>2011-05-17T05:18:33Z</updated>
+        <dc:identifier>urn:ISBN:0201422190</dc:identifier>
+        <dc:identifier>urn:ISBN:9780201422191</dc:identifier>
+        <dc:identifier>urn:LCCN:96001587</dc:identifier>
+        <oclcterms:recordIdentifier>34191055</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Castro, Elizabeth.</name>
+        </author>
+        <title>PERL and CGI for the World Wide Web</title>
+        <link href="http://worldcat.org/oclc/40461894"/>
+        <id>http://worldcat.org/oclc/40461894</id>
+        <updated>2011-10-25T23:21:37Z</updated>
+        <dc:identifier>urn:ISBN:020135358X</dc:identifier>
+        <dc:identifier>urn:ISBN:9780201353587</dc:identifier>
+        <dc:identifier>urn:LCCN:99190538</dc:identifier>
+        <oclcterms:recordIdentifier>40461894</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>Don't sing before breakfast, don't sleep in the moonlight : everyday superstitions and how they began</title>
+        <link href="http://worldcat.org/oclc/16647912"/>
+        <id>http://worldcat.org/oclc/16647912</id>
+        <updated>2008-03-17T04:13:38Z</updated>
+        <dc:identifier>urn:ISBN:0899195040</dc:identifier>
+        <dc:identifier>urn:ISBN:9780899195049</dc:identifier>
+        <dc:identifier>urn:LCCN:87024295</dc:identifier>
+        <oclcterms:recordIdentifier>16647912</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Jamison, D. Curtis.</name>
+        </author>
+        <title>Perl programming for biologists</title>
+        <link href="http://worldcat.org/oclc/50899254"/>
+        <id>http://worldcat.org/oclc/50899254</id>
+        <updated>2011-03-25T17:54:16Z</updated>
+        <dc:identifier>urn:ISBN:0471430595</dc:identifier>
+        <dc:identifier>urn:ISBN:9780471430599</dc:identifier>
+        <dc:identifier>urn:LCCN:2002152547</dc:identifier>
+        <oclcterms:recordIdentifier>50899254</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Deitel, Harvey M., 1945-</name>
+        </author>
+        <title>Perl : how to program</title>
+        <link href="http://worldcat.org/oclc/45223575"/>
+        <id>http://worldcat.org/oclc/45223575</id>
+        <updated>2011-01-28T19:19:52Z</updated>
+        <dc:identifier>urn:ISBN:0130284181</dc:identifier>
+        <dc:identifier>urn:ISBN:9780130284181</dc:identifier>
+        <dc:identifier>urn:LCCN:00051668</dc:identifier>
+        <oclcterms:recordIdentifier>45223575</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Deep, John, 1957-</name>
+        </author>
+        <title>Developing CGI applications with Perl</title>
+        <link href="http://worldcat.org/oclc/33984011"/>
+        <id>http://worldcat.org/oclc/33984011</id>
+        <updated>2011-03-25T02:24:02Z</updated>
+        <dc:identifier>urn:ISBN:0471141585</dc:identifier>
+        <dc:identifier>urn:ISBN:9780471141587</dc:identifier>
+        <dc:identifier>urn:LCCN:95043058</dc:identifier>
+        <oclcterms:recordIdentifier>33984011</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Radcliff, Chris.</name>
+        </author>
+        <title>Perl for the Web</title>
+        <link href="http://worldcat.org/oclc/47355241"/>
+        <id>http://worldcat.org/oclc/47355241</id>
+        <updated>2011-09-08T01:31:33Z</updated>
+        <dc:identifier>urn:ISBN:0735711143</dc:identifier>
+        <dc:identifier>urn:ISBN:9780735711143</dc:identifier>
+        <dc:identifier>urn:LCCN:00112192</dc:identifier>
+        <oclcterms:recordIdentifier>47355241</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Jed.</name>
+        </author>
+        <title>Antoine's alphabet : Watteau and his world</title>
+        <link href="http://worldcat.org/oclc/212855035"/>
+        <id>http://worldcat.org/oclc/212855035</id>
+        <updated>2010-06-29T01:23:11Z</updated>
+        <dc:identifier>urn:ISBN:9780307266620</dc:identifier>
+        <dc:identifier>urn:ISBN:0307266621</dc:identifier>
+        <dc:identifier>urn:LCCN:2008019371</dc:identifier>
+        <oclcterms:recordIdentifier>212855035</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Vromans, Johan.</name>
+        </author>
+        <title>Perl 5 desktop reference</title>
+        <link href="http://worldcat.org/oclc/34373965"/>
+        <id>http://worldcat.org/oclc/34373965</id>
+        <updated>2011-05-19T15:07:41Z</updated>
+        <dc:identifier>urn:ISBN:1565921879</dc:identifier>
+        <dc:identifier>urn:ISBN:9781565921870</dc:identifier>
+        <oclcterms:recordIdentifier>34373965</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Jed.</name>
+        </author>
+        <title>Eyewitness : reports from an art world in crisis</title>
+        <link href="http://worldcat.org/oclc/42578585"/>
+        <id>http://worldcat.org/oclc/42578585</id>
+        <updated>2011-09-10T21:21:26Z</updated>
+        <dc:identifier>urn:ISBN:0465055206</dc:identifier>
+        <dc:identifier>urn:ISBN:9780465055203</dc:identifier>
+        <dc:identifier>urn:LCCN:99049794</dc:identifier>
+        <oclcterms:recordIdentifier>42578585</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Callender, John (John Bryan), 1962-</name>
+        </author>
+        <title>Perl for Web site management</title>
+        <link href="http://worldcat.org/oclc/47120305"/>
+        <id>http://worldcat.org/oclc/47120305</id>
+        <updated>2011-07-30T18:21:53Z</updated>
+        <dc:identifier>urn:ISBN:1565926471</dc:identifier>
+        <dc:identifier>urn:ISBN:9781565926479</dc:identifier>
+        <dc:identifier>urn:LCCN:2001036174</dc:identifier>
+        <oclcterms:recordIdentifier>47120305</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Stein, Lincoln D., 1960-</name>
+        </author>
+        <title>Writing Apache modules with Perl and C</title>
+        <link href="http://worldcat.org/oclc/41359599"/>
+        <id>http://worldcat.org/oclc/41359599</id>
+        <updated>2011-10-26T01:46:07Z</updated>
+        <dc:identifier>urn:ISBN:156592567X</dc:identifier>
+        <dc:identifier>urn:ISBN:9781565925670</dc:identifier>
+        <dc:identifier>urn:LCCN:00267555</dc:identifier>
+        <oclcterms:recordIdentifier>41359599</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Duncan, Andy.</name>
+        </author>
+        <title>Perl for Oracle DBAs</title>
+        <link href="http://worldcat.org/oclc/49991566"/>
+        <id>http://worldcat.org/oclc/49991566</id>
+        <updated>2011-09-08T03:34:33Z</updated>
+        <dc:identifier>urn:ISBN:0596002106</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596002107</dc:identifier>
+        <dc:identifier>urn:LCCN:2002074898</dc:identifier>
+        <oclcterms:recordIdentifier>49991566</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Brown, Martin C.</name>
+        </author>
+        <title>Perl the complete reference</title>
+        <link href="http://worldcat.org/oclc/53443822"/>
+        <id>http://worldcat.org/oclc/53443822</id>
+        <updated>2010-07-16T13:48:06Z</updated>
+        <dc:identifier>urn:ISBN:0072194251</dc:identifier>
+        <dc:identifier>urn:ISBN:9780072194258</dc:identifier>
+        <oclcterms:recordIdentifier>53443822</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Randal, Allison.</name>
+        </author>
+        <title>Perl 6 and Parrot essentials</title>
+        <link href="http://worldcat.org/oclc/55893441"/>
+        <id>http://worldcat.org/oclc/55893441</id>
+        <updated>2011-09-16T22:56:19Z</updated>
+        <dc:identifier>urn:ISBN:059600737X</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596007379</dc:identifier>
+        <dc:identifier>urn:LCCN:2004558990</dc:identifier>
+        <oclcterms:recordIdentifier>55893441</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Vromans, Johan.</name>
+        </author>
+        <title>Perl 5 pocket reference</title>
+        <link href="http://worldcat.org/oclc/44769127"/>
+        <id>http://worldcat.org/oclc/44769127</id>
+        <updated>2011-03-25T04:05:37Z</updated>
+        <dc:identifier>urn:ISBN:1565924959</dc:identifier>
+        <dc:identifier>urn:ISBN:9781565924956</dc:identifier>
+        <dc:identifier>urn:LCCN:00501185</dc:identifier>
+        <oclcterms:recordIdentifier>44769127</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Chapman, Nigel P.</name>
+        </author>
+        <title>Perl : the programmer's companion</title>
+        <link href="http://worldcat.org/oclc/37877322"/>
+        <id>http://worldcat.org/oclc/37877322</id>
+        <updated>2010-05-13T10:51:13Z</updated>
+        <dc:identifier>urn:ISBN:047197563X</dc:identifier>
+        <dc:identifier>urn:ISBN:9780471975632</dc:identifier>
+        <oclcterms:recordIdentifier>37877322</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Brown, Martin C.</name>
+        </author>
+        <title>Perl to Python migration</title>
+        <link href="http://worldcat.org/oclc/47355821"/>
+        <id>http://worldcat.org/oclc/47355821</id>
+        <updated>2011-04-25T09:52:24Z</updated>
+        <dc:identifier>urn:ISBN:0201734885</dc:identifier>
+        <dc:identifier>urn:ISBN:9780201734881</dc:identifier>
+        <oclcterms:recordIdentifier>47355821</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Wyke, R. Allen.</name>
+        </author>
+        <title>Perl : a beginner's guide</title>
+        <link href="http://worldcat.org/oclc/45850769"/>
+        <id>http://worldcat.org/oclc/45850769</id>
+        <updated>2011-03-25T00:48:51Z</updated>
+        <dc:identifier>urn:ISBN:0072129573</dc:identifier>
+        <dc:identifier>urn:ISBN:9780072129571</dc:identifier>
+        <dc:identifier>urn:LCCN:2001267056</dc:identifier>
+        <oclcterms:recordIdentifier>45850769</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>The ancient Maya</title>
+        <link href="http://worldcat.org/oclc/56956082"/>
+        <id>http://worldcat.org/oclc/56956082</id>
+        <updated>2011-01-31T22:58:36Z</updated>
+        <dc:identifier>urn:ISBN:0531123812</dc:identifier>
+        <dc:identifier>urn:ISBN:9780531123812</dc:identifier>
+        <dc:identifier>urn:ISBN:0531168484</dc:identifier>
+        <dc:identifier>urn:ISBN:9780531168486</dc:identifier>
+        <dc:identifier>urn:LCCN:2004026379</dc:identifier>
+        <oclcterms:recordIdentifier>56956082</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>LeBlanc, Mark (Mark D.), 1962-</name>
+        </author>
+        <title>Perl for exploring DNA</title>
+        <link href="http://worldcat.org/oclc/75088022"/>
+        <id>http://worldcat.org/oclc/75088022</id>
+        <updated>2011-07-17T23:33:10Z</updated>
+        <dc:identifier>urn:ISBN:9780195327571</dc:identifier>
+        <dc:identifier>urn:ISBN:0195327578</dc:identifier>
+        <dc:identifier>urn:ISBN:9780195305890</dc:identifier>
+        <dc:identifier>urn:ISBN:0195305892</dc:identifier>
+        <dc:identifier>urn:LCCN:2006036861</dc:identifier>
+        <oclcterms:recordIdentifier>75088022</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Oualline, Steve.</name>
+        </author>
+        <title>Perl for C programmers</title>
+        <link href="http://worldcat.org/oclc/51053923"/>
+        <id>http://worldcat.org/oclc/51053923</id>
+        <updated>2011-01-20T23:35:44Z</updated>
+        <dc:identifier>urn:ISBN:073571228X</dc:identifier>
+        <dc:identifier>urn:ISBN:9780735712287</dc:identifier>
+        <dc:identifier>urn:LCCN:2001096226</dc:identifier>
+        <oclcterms:recordIdentifier>51053923</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Perl, Lila.</name>
+        </author>
+        <title>The ancient Egyptians</title>
+        <link href="http://worldcat.org/oclc/54279978"/>
+        <id>http://worldcat.org/oclc/54279978</id>
+        <updated>2011-01-30T23:12:32Z</updated>
+        <dc:identifier>urn:ISBN:0531123456</dc:identifier>
+        <dc:identifier>urn:ISBN:9780531123454</dc:identifier>
+        <dc:identifier>urn:ISBN:0531167380</dc:identifier>
+        <dc:identifier>urn:ISBN:9780531167380</dc:identifier>
+        <dc:identifier>urn:LCCN:2004001940</dc:identifier>
+        <oclcterms:recordIdentifier>54279978</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Rolsky, Dave.</name>
+        </author>
+        <title>Embedding Perl in HTML with Mason</title>
+        <link href="http://worldcat.org/oclc/50291230"/>
+        <id>http://worldcat.org/oclc/50291230</id>
+        <updated>2010-12-16T11:18:09Z</updated>
+        <dc:identifier>urn:ISBN:0596002254</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596002251</dc:identifier>
+        <dc:identifier>urn:LCCN:2002074892</dc:identifier>
+        <oclcterms:recordIdentifier>50291230</oclcterms:recordIdentifier>
+    </entry>
+    <entry>
+        <author>
+            <name>Schwartz, Randal L.</name>
+        </author>
+        <title>Learning Perl objects, references, and modules</title>
+        <link href="http://worldcat.org/oclc/53389178"/>
+        <id>http://worldcat.org/oclc/53389178</id>
+        <updated>2011-03-25T13:42:47Z</updated>
+        <dc:identifier>urn:ISBN:0596004788</dc:identifier>
+        <dc:identifier>urn:ISBN:9780596004781</dc:identifier>
+        <oclcterms:recordIdentifier>53389178</oclcterms:recordIdentifier>
+    </entry>
+</feed>
