@@ -1,0 +1,53 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 430,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "4vEhAQAAIAAJ",
+   "etag": "hpwKlgSmQXc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4vEhAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Tell the world",
+    "subtitle": "the story of the Sobibor revolt",
+    "authors": [
+     "Shaindy Perl"
+    ],
+    "publisher": "Israel Book Shop",
+    "publishedDate": "2004-03-30",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105118015374"
+     }
+    ],
+    "pageCount": 253,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id=4vEhAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id=4vEhAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4vEhAQAAIAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=283&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=4vEhAQAAIAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 531,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xz37q8h49iYC",
+   "etag": "SYmro1s3um0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xz37q8h49iYC",
+   "volumeInfo": {
+    "title": "Practical Text Mining with Perl",
+    "authors": [
+     "Roger Bilisoly"
+    ],
+    "publisher": "Wiley",
+    "publishedDate": "2011-09-20",
+    "description": "Provides readers with the methods, algorithms, and means to perform text mining tasks This book is devoted to the fundamentals of text mining using Perl, an ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1118210506"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118210505"
+     }
+    ],
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id=xz37q8h49iYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id=xz37q8h49iYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xz37q8h49iYC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=60&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xz37q8h49iYC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 84.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 84.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=xz37q8h49iYC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Practical_Text_Mining_with_Perl-sample-epub.acsm?id=xz37q8h49iYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Practical_Text_Mining_with_Perl-sample-pdf.acsm?id=xz37q8h49iYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

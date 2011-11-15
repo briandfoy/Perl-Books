@@ -1,0 +1,51 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 380,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "YEpSQQAACAAJ",
+   "etag": "+zdq+lKP/no",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YEpSQQAACAAJ",
+   "volumeInfo": {
+    "title": "Elastic scattering of negative pions by protons at 2 BeV/c",
+    "authors": [
+     "David Earl Damouth",
+     "Lawrence W. Jones",
+     "Martin L. Perl",
+     "University of Michigan. Dept. of Physics"
+    ],
+    "publishedDate": "1963",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:227315623"
+     }
+    ],
+    "pageCount": 53,
+    "printType": "BOOK",
+    "categories": [
+     "Pions"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YEpSQQAACAAJ&dq=perl&ie=ISO-8859-1&cd=379&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=YEpSQQAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

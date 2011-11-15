@@ -1,0 +1,58 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 445,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "2n0uAAAAIAAJ",
+   "etag": "/7k6X8EVb2k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2n0uAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Physics careers, employment, and education (Penn State, 1977)",
+    "authors": [
+     "Martin L. Perl",
+     "Forum on Physics and Society"
+    ],
+    "publisher": "Amer Inst of Physics",
+    "publishedDate": "1978-06",
+    "description": "Chmn. ML \u003cb\u003ePerl\u003c/b\u003e THE WORK OF THE PHYSICS MANPOWER PANEL Milan D. Fiske General \u003cbr\u003e\r\nElectric Corporate Research and Development Schenectady, NY 12301 ABSTRACT The \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "088318138X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780883181386"
+     }
+    ],
+    "pageCount": 340,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id=2n0uAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id=2n0uAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=2n0uAAAAIAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=236&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=2n0uAAAAIAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

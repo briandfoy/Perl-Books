@@ -1,0 +1,54 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 384,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "BBkeAAAACAAJ",
+   "etag": "a9G/8ZdPNLE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BBkeAAAACAAJ",
+   "volumeInfo": {
+    "title": "Molly Picon",
+    "subtitle": "a gift of laughter",
+    "authors": [
+     "Lila Perl"
+    ],
+    "publisher": "Jewish Pubn Society",
+    "publishedDate": "1990-07",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0827603363"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780827603363"
+     }
+    ],
+    "pageCount": 66,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BBkeAAAACAAJ&dq=perl&ie=ISO-8859-1&cd=359&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=BBkeAAAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 530,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "6OKMwtYqtbMC",
+   "etag": "hA4cb4zoqmo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6OKMwtYqtbMC",
+   "volumeInfo": {
+    "title": "Learn Perl in a Weekend",
+    "authors": [
+     "Thomas Nowers"
+    ],
+    "publisher": "Course Technology Ptr",
+    "publishedDate": "2002-05-02",
+    "description": "&quot;Learn Perl In a Weekend&quot; takes the time to go through the steps of obtaining, installing, and configuring Perl (particularly on a Windows platform) before ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1931841772"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781931841771"
+     }
+    ],
+    "pageCount": 350,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id=6OKMwtYqtbMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id=6OKMwtYqtbMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=6OKMwtYqtbMC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=66&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=6OKMwtYqtbMC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 409,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "j9eMZwEACAAJ",
+   "etag": "I2TcW2hITTE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/j9eMZwEACAAJ",
+   "volumeInfo": {
+    "title": "Programming Perl",
+    "subtitle": "Unmatched Power for Text Processing and Scripting",
+    "authors": [
+     "Tom Christiansen",
+     "Larry Wall",
+     "Jon Orwant"
+    ],
+    "publisher": "O'Reilly Media, Inc.",
+    "publishedDate": "2011-10-22",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596004923"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596004927"
+     }
+    ],
+    "pageCount": 1000,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=j9eMZwEACAAJ&dq=perl&ie=ISO-8859-1&cd=327&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=j9eMZwEACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

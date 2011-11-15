@@ -1,0 +1,55 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 454,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "z_3_SAAACAAJ",
+   "etag": "kfAdKgTNx9g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/z_3_SAAACAAJ",
+   "volumeInfo": {
+    "title": "Perl resource kit",
+    "subtitle": "Win32 edition",
+    "authors": [
+     "Brian Jepson",
+     "Dick Hardt",
+     "Erik Olson",
+     "David Futato"
+    ],
+    "publishedDate": "1999-06-15",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1565924096"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781565924093"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=z_3_SAAACAAJ&dq=perl&ie=ISO-8859-1&cd=223&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=z_3_SAAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

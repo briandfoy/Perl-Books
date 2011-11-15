@@ -1,0 +1,53 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 415,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "04X9MQAACAAJ",
+   "etag": "spBwgSSnQUc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/04X9MQAACAAJ",
+   "volumeInfo": {
+    "title": "Programming with Perl modules",
+    "authors": [
+     "Nathan Patwardhan",
+     "Clay Irving"
+    ],
+    "publishedDate": "1997",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1565923707"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781565923706"
+     }
+    ],
+    "pageCount": 277,
+    "printType": "BOOK",
+    "categories": [
+     "Perl (Computer program language)"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=04X9MQAACAAJ&dq=perl&ie=ISO-8859-1&cd=313&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=04X9MQAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

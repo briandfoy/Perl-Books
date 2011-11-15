@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 540,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ItaXCnhSmBgC",
+   "etag": "UDhiUAbaLQU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ItaXCnhSmBgC",
+   "volumeInfo": {
+    "title": "Wicked cool Perl scripts",
+    "subtitle": "useful Perl scripts that solve difficult problems",
+    "authors": [
+     "Steve Oualline"
+    ],
+    "publisher": "No Starch Pr",
+    "publishedDate": "2006-02-10",
+    "description": "Provides information on creating a variety of Perl utilities.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1593270623"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781593270629"
+     }
+    ],
+    "pageCount": 312,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id=ItaXCnhSmBgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id=ItaXCnhSmBgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ItaXCnhSmBgC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=28&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ItaXCnhSmBgC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.96,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 14.38,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=ItaXCnhSmBgC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 442,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "HYaksFr4JKQC",
+   "etag": "p/gEotTiE3k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HYaksFr4JKQC",
+   "volumeInfo": {
+    "title": "Fat Glenda's Summer Romance",
+    "authors": [
+     "Lila Perl"
+    ],
+    "publisher": "Simon Pulse",
+    "publishedDate": "1988-06",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0671648578"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780671648572"
+     }
+    ],
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id=HYaksFr4JKQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id=HYaksFr4JKQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=HYaksFr4JKQC&q=perl&dq=perl&ie=ISO-8859-1&cd=239&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=HYaksFr4JKQC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

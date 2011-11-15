@@ -1,0 +1,60 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 476,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "vCVzS2dOxo4C",
+   "etag": "Znu0LsMlggw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vCVzS2dOxo4C",
+   "volumeInfo": {
+    "title": "CGI programming 101",
+    "subtitle": "Perl for the World Wide Web",
+    "authors": [
+     "Jacqueline D. Hamilton"
+    ],
+    "publisher": "Cgi101.Com",
+    "publishedDate": "2004-04",
+    "description": "The book includes the basics of where to write scripts; how to upload them and set file permissions; how to run them, and how to decode form data and save it to ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0966942612"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780966942613"
+     }
+    ],
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id=vCVzS2dOxo4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id=vCVzS2dOxo4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=vCVzS2dOxo4C&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=176&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=vCVzS2dOxo4C&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

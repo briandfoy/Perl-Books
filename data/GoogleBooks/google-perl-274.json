@@ -1,0 +1,56 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 432,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "ToCcAAAAMAAJ",
+   "etag": "N13hhj8YSU8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ToCcAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Through teachers' eyes",
+    "subtitle": "portraits of writing teachers at work",
+    "authors": [
+     "Sondra Perl",
+     "Nancy Wilson"
+    ],
+    "publisher": "Heinemann Educational Publishers",
+    "publishedDate": "1986-04",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015011885269"
+     }
+    ],
+    "pageCount": 272,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id=ToCcAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id=ToCcAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=ToCcAAAAMAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=275&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=ToCcAAAAMAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

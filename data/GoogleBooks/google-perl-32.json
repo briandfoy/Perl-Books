@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 538,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "oziJDqV0rRMC",
+   "etag": "3FKyBSt8qzU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oziJDqV0rRMC",
+   "volumeInfo": {
+    "title": "Intermediate Perl",
+    "authors": [
+     "Randal L. Schwartz",
+     "Brian D. Foy",
+     "Tom Phoenix"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2006",
+    "description": "Presents guidelines on the art of coding with Perl, covering such topics as references and scoping, object-oriented programing, writing and using modules, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596102062"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596102067"
+     }
+    ],
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 6,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id=oziJDqV0rRMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id=oziJDqV0rRMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=oziJDqV0rRMC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=33&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=oziJDqV0rRMC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.27,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=oziJDqV0rRMC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

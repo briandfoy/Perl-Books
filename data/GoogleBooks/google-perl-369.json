@@ -1,0 +1,55 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 382,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "SF98QgAACAAJ",
+   "etag": "7RhY1oJskXk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SF98QgAACAAJ",
+   "volumeInfo": {
+    "title": "Family planning education in action",
+    "subtitle": "some community-centred approaches",
+    "authors": [
+     "Judy El-Bushra",
+     "Susan Perl"
+    ],
+    "publisher": "International Extension College ; [London] : International Planned Parenthood Federation",
+    "publishedDate": "1976",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0903632098"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780903632096"
+     }
+    ],
+    "pageCount": 107,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=SF98QgAACAAJ&dq=perl&ie=ISO-8859-1&cd=370&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=SF98QgAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

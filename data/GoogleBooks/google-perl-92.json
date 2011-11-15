@@ -1,0 +1,57 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 514,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "28Mx0Vtw8b0C",
+   "etag": "HVcDvX2Y2Xo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/28Mx0Vtw8b0C",
+   "volumeInfo": {
+    "title": "Perl",
+    "authors": [
+     "Stefano Rodighiero"
+    ],
+    "publisher": "Apogeo Editore",
+    "publishedDate": "2008",
+    "description": "Capitolo 1 Scoprire \u003cb\u003ePerl\u003c/b\u003e Avete tra le mani un libro che parla di \u003cb\u003ePerl\u003c/b\u003e; \u003cbr\u003e\r\nimmaginiamo che (essendo questo un testo introduttivo) siate principianti di \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8850327781"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788850327782"
+     }
+    ],
+    "pageCount": 204,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id=28Mx0Vtw8b0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id=28Mx0Vtw8b0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "it",
+    "previewLink": "http://books.google.com/books?id=28Mx0Vtw8b0C&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=93&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=28Mx0Vtw8b0C&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

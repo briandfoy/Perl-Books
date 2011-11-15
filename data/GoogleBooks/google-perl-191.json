@@ -1,0 +1,55 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 472,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "W6btxQEDOcYC",
+   "etag": "7frzubA6JNU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W6btxQEDOcYC",
+   "volumeInfo": {
+    "title": "The Visibooks Guide to PERL Basics",
+    "authors": [
+     "Paul Gruhn"
+    ],
+    "publishedDate": "2006-01-01",
+    "description": "Learning the Basics In this section, you&#39;ll learn how to: • Install an FTP \u003cbr\u003e\r\nprogram • Create a simple script • Upload a script • Set script permissions • \u003cbr\u003e\r\nRun \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1597060321"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781597060325"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id=W6btxQEDOcYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id=W6btxQEDOcYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=W6btxQEDOcYC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=192&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=W6btxQEDOcYC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

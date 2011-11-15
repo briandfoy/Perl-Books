@@ -1,0 +1,55 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 434,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "JfBTAAAAMAAJ",
+   "etag": "ggvlMi2cAhY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JfBTAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Man Ray",
+    "authors": [
+     "Man Ray",
+     "Jed Perl"
+    ],
+    "publisher": "Aperture",
+    "publishedDate": "1988-11",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015047305761"
+     }
+    ],
+    "pageCount": 95,
+    "printType": "BOOK",
+    "categories": [
+     "Photography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id=JfBTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id=JfBTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=JfBTAAAAMAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=269&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=JfBTAAAAMAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

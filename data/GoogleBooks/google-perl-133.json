@@ -1,0 +1,54 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 494,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "A7RQAAAAMAAJ",
+   "etag": "fIkLc7g+UfU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/A7RQAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Perl developer's guide",
+    "authors": [
+     "Ed Peschko",
+     "Michele DeWolfe"
+    ],
+    "publisher": "McGraw-Hill Companies",
+    "publishedDate": "2000-06-08",
+    "description": "Setting Up the \u003cb\u003ePerl\u003c/b\u003e 5 Environment The goal of this chapter is to introduce you \u003cbr\u003e\r\nto \u003cb\u003ePerl\u003c/b\u003e and show you how to use \u003cb\u003ePerl\u003c/b\u003e effectively. A large part of using \u003cb\u003ePerl\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015036038274"
+     }
+    ],
+    "pageCount": 985,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id=A7RQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id=A7RQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=A7RQAAAAMAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=134&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=A7RQAAAAMAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

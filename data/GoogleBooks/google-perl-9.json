@@ -1,0 +1,58 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 549,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PVdECyEw7u4C",
+   "etag": "IteLKhP72IY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PVdECyEw7u4C",
+   "volumeInfo": {
+    "title": "Perl",
+    "subtitle": "Essential Programs for Your Survival at Work, Book 2 in the Rosetta Stone Series for Computer Programmers and Script-writers",
+    "authors": [
+     "Larry L. Smith"
+    ],
+    "publisher": "Larry L. Smith",
+    "publishedDate": "2006-04-24",
+    "description": "This book, for UNIX-LINUX computer users, provides the beginner AND the &quot;guru&quot; with practical, real-world examples and Perl scripts that make tough jobs easy ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1419648322"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781419648328"
+     }
+    ],
+    "pageCount": 657,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id=PVdECyEw7u4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id=PVdECyEw7u4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=PVdECyEw7u4C&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=PVdECyEw7u4C&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

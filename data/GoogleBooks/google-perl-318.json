@@ -1,0 +1,55 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 409,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "0cVUYgEACAAJ",
+   "etag": "oIz27XTQJ3w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0cVUYgEACAAJ",
+   "volumeInfo": {
+    "title": "Perl 6",
+    "authors": [
+     "Lambert M Surhone",
+     "Miriam T Timpledon",
+     "Susan F Marseken"
+    ],
+    "publisher": "Betascript Publishing",
+    "publishedDate": "2010-07-16",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "6130911890"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9786130911898"
+     }
+    ],
+    "pageCount": 84,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=0cVUYgEACAAJ&dq=perl&ie=ISO-8859-1&cd=319&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=0cVUYgEACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

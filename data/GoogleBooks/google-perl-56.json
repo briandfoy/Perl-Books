@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 532,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "1Cp2-ydxKj4C",
+   "etag": "sYVP6YQr12I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1Cp2-ydxKj4C",
+   "volumeInfo": {
+    "title": "Perl & LWP",
+    "authors": [
+     "Sean M. Burke"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2002",
+    "description": "This comprehensive guide to LWP and its applications comes with many practical examples.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596001789"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596001780"
+     }
+    ],
+    "pageCount": 242,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "0.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id=1Cp2-ydxKj4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id=1Cp2-ydxKj4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=1Cp2-ydxKj4C&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=57&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=1Cp2-ydxKj4C&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.39,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=1Cp2-ydxKj4C&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

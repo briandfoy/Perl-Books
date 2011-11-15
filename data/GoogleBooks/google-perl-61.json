@@ -1,0 +1,58 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 530,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "jK_I63EHE68C",
+   "etag": "pYVmyUARQl0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jK_I63EHE68C",
+   "volumeInfo": {
+    "title": "Perl and XML",
+    "authors": [
+     "Erik T. Ray",
+     "Jason McIntosh"
+    ],
+    "publisher": "O'Reilly Media, Inc.",
+    "publishedDate": "2002",
+    "description": "Discusses topics including parsing and validating XML documents in Perl, working with event streams, XML document trees, the Document Object Model, and turning ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "059600205X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596002053"
+     }
+    ],
+    "pageCount": 202,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id=jK_I63EHE68C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id=jK_I63EHE68C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jK_I63EHE68C&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=62&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=jK_I63EHE68C&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

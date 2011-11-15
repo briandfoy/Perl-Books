@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 542,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "DW8_C3RcJbgC",
+   "etag": "pCb8GQjH36Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DW8_C3RcJbgC",
+   "volumeInfo": {
+    "title": "Perl Template Toolkit",
+    "authors": [
+     "Darren Chamberlain",
+     "Darren Chamberlain, Dave Cross, Andy Wardley",
+     "Dave Cross",
+     "Andy Wardley"
+    ],
+    "publisher": "O'Reilly Media, Inc.",
+    "publishedDate": "2011-06-14",
+    "description": "This book is your surefire guide to implementing this fast, flexible, and powerful templating system.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "144931323X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781449313234"
+     }
+    ],
+    "pageCount": 592,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "0.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id=DW8_C3RcJbgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id=DW8_C3RcJbgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DW8_C3RcJbgC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=26&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=DW8_C3RcJbgC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.27,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=DW8_C3RcJbgC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

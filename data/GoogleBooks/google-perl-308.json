@@ -1,0 +1,61 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 415,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "zi7DPQAACAAJ",
+   "etag": "QCfOoMTSo6U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zi7DPQAACAAJ",
+   "volumeInfo": {
+    "title": "Women and numbers",
+    "subtitle": "lives of women mathematicians plus discovery activities",
+    "authors": [
+     "Teri Perl",
+     "Analee Nunan"
+    ],
+    "publisher": "Wide World Publishing, Tetra",
+    "publishedDate": "1993-05-11",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "093317487X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780933174870"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id=zi7DPQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id=zi7DPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zi7DPQAACAAJ&dq=perl&ie=ISO-8859-1&cd=309&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=zi7DPQAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

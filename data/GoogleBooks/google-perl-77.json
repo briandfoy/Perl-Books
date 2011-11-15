@@ -1,0 +1,60 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 522,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5jAuQBe2EsMC",
+   "etag": "3b/F1LcqeY0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5jAuQBe2EsMC",
+   "volumeInfo": {
+    "title": "Writing Apache modules with Perl and C",
+    "authors": [
+     "Lincoln D. Stein",
+     "Doug MacEachern"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "1999",
+    "description": "Explaining how to enhance the capabilities of the Apache Web server, a guide to Web programming discusses the design of Apache, mod perl, and the Apache API and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "156592567X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781565925670"
+     }
+    ],
+    "pageCount": 724,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id=5jAuQBe2EsMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id=5jAuQBe2EsMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=5jAuQBe2EsMC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=78&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=5jAuQBe2EsMC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

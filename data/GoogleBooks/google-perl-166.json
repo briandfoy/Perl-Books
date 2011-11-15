@@ -1,0 +1,58 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 476,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "eyGcQYqD3yAC",
+   "etag": "EsZ5U8HZsuc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eyGcQYqD3yAC",
+   "volumeInfo": {
+    "title": "PERL COMO PROGRAMAR",
+    "authors": [
+     "DEITEL & ASSOCIATES INC."
+    ],
+    "publisher": "Bookman",
+    "description": "Explica cuidadosamente como utilizar Perl como linguagem de programação de uso geral e como programar aplicações de múltiplos níveis, cliente/servidor, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8573079800"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573079807"
+     }
+    ],
+    "pageCount": 952,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id=eyGcQYqD3yAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id=eyGcQYqD3yAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com/books?id=eyGcQYqD3yAC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=167&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=eyGcQYqD3yAC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

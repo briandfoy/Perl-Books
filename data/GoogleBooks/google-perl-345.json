@@ -1,0 +1,53 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 390,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "O5cvAgAACAAJ",
+   "etag": "l7am1EJFSys",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O5cvAgAACAAJ",
+   "volumeInfo": {
+    "title": "From Top Hats to Baseball Caps, from Bustles to Blue Jeans",
+    "subtitle": "Why We Dress the Way We Do",
+    "authors": [
+     "Lila Perl"
+    ],
+    "publishedDate": "1995-12-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0899199720"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780899199726"
+     }
+    ],
+    "pageCount": 118,
+    "printType": "BOOK",
+    "categories": [
+     "Design"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=O5cvAgAACAAJ&dq=perl&ie=ISO-8859-1&cd=346&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=O5cvAgAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

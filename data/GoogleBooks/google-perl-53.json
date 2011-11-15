@@ -1,0 +1,59 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 533,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "UXQjR97zrz8C",
+   "etag": "jFpMUtXOX2c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UXQjR97zrz8C",
+   "volumeInfo": {
+    "title": "Perl for C programmers",
+    "authors": [
+     "Steve Oualline"
+    ],
+    "publisher": "Sams",
+    "publishedDate": "2002-07-26",
+    "description": "A majority of the people who start using Perl for the first time have a background in the C or C++ programming language. This book is written for those people.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "073571228X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780735712287"
+     }
+    ],
+    "pageCount": 411,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id=UXQjR97zrz8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id=UXQjR97zrz8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=UXQjR97zrz8C&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=54&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=UXQjR97zrz8C&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 528,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "UDUmoHOUXiMC",
+   "etag": "B220xqU5tIU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UDUmoHOUXiMC",
+   "volumeInfo": {
+    "title": "Pro Perl debugging",
+    "subtitle": "from professional to expert",
+    "authors": [
+     "Richard Foley",
+     "Andy Lester"
+    ],
+    "publishedDate": "2005-07-22",
+    "description": "A definitive reference for resolving the dilemma of application testing and debugging--one of the biggest time commitments in a programmer&#39;s daily routine--this ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1590594541"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781590594544"
+     }
+    ],
+    "pageCount": 269,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id=UDUmoHOUXiMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id=UDUmoHOUXiMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=UDUmoHOUXiMC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=68&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=UDUmoHOUXiMC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 43.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=UDUmoHOUXiMC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Pro_Perl_debugging-sample-epub.acsm?id=UDUmoHOUXiMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Pro_Perl_debugging-sample-pdf.acsm?id=UDUmoHOUXiMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

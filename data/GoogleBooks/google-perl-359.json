@@ -1,0 +1,52 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 384,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "8jk1AAAACAAJ",
+   "etag": "HXnxsJFWM/Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8jk1AAAACAAJ",
+   "volumeInfo": {
+    "title": "Perl",
+    "subtitle": "receptury",
+    "authors": [
+     "Tom Christiansen",
+     "Nathan Torkington"
+    ],
+    "publisher": "Ksiegarnia s.c.",
+    "publishedDate": "2004",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8373613285"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788373613287"
+     }
+    ],
+    "pageCount": 1054,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "pl",
+    "previewLink": "http://books.google.com/books?id=8jk1AAAACAAJ&dq=perl&ie=ISO-8859-1&cd=360&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=8jk1AAAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 390,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "IutFPgAACAAJ",
+   "etag": "6AMnK3FwmYQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IutFPgAACAAJ",
+   "volumeInfo": {
+    "title": "Learning Perl, 4/e (covers Perl 5.8)",
+    "authors": [
+     "Schwartz"
+    ],
+    "publishedDate": "2005-01-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8184040040"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788184040043"
+     }
+    ],
+    "pageCount": 316,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IutFPgAACAAJ&dq=perl&ie=ISO-8859-1&cd=347&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=IutFPgAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

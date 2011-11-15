@@ -1,0 +1,54 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 434,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "9bcQAQAAMAAJ",
+   "etag": "gys2oGchIvg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9bcQAQAAMAAJ",
+   "volumeInfo": {
+    "title": "The educational production function",
+    "subtitle": "implications for educational manpower policy",
+    "authors": [
+     "John Heim",
+     "Lewis J. Perl"
+    ],
+    "publisher": "Ilr Pr",
+    "publishedDate": "1974-12",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:49015000529710"
+     }
+    ],
+    "pageCount": 38,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id=9bcQAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id=9bcQAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9bcQAQAAMAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=268&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=9bcQAQAAMAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

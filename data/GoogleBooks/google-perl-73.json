@@ -1,0 +1,61 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 523,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "NC8kbSCp1z4C",
+   "etag": "Ia/c9vyJOrs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NC8kbSCp1z4C",
+   "volumeInfo": {
+    "title": "Programmieren mit Perl",
+    "authors": [
+     "Larry Wall",
+     "Tom Christiansen",
+     "Jon Orwant"
+    ],
+    "publisher": "O'Reilly Germany",
+    "publishedDate": "2001-07-31",
+    "description": "\u003cb\u003ePerl\u003c/b\u003e im Überblick Einführung Wir glauben, daß \u003cb\u003ePerl\u003c/b\u003e eine einfach zu erlernende \u003cbr\u003e\r\nund anzuwendende Sprache ist, und wir hoffen, daß Sie uns recht geben. \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3897211440"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783897211445"
+     }
+    ],
+    "pageCount": 1128,
+    "printType": "BOOK",
+    "categories": [
+     "Perl (Computer program language)"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id=NC8kbSCp1z4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id=NC8kbSCp1z4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=NC8kbSCp1z4C&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=74&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=NC8kbSCp1z4C&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

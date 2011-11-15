@@ -1,0 +1,50 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 386,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "OwXhSgAACAAJ",
+   "etag": "6xqfYMG92VY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OwXhSgAACAAJ",
+   "volumeInfo": {
+    "title": "Drug control",
+    "subtitle": "international policy and options",
+    "authors": [
+     "Raphael Perl",
+     "Library of Congress. Congressional Research Service"
+    ],
+    "publishedDate": "2000",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:56972367"
+     }
+    ],
+    "pageCount": 16,
+    "printType": "BOOK",
+    "categories": [
+     "Drug control"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OwXhSgAACAAJ&dq=perl&ie=ISO-8859-1&cd=351&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=OwXhSgAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

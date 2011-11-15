@@ -1,0 +1,57 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 533,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "f1FFzVqy9I8C",
+   "etag": "jkDaOsW0dW4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f1FFzVqy9I8C",
+   "volumeInfo": {
+    "title": "MySQL and Perl for the Web",
+    "authors": [
+     "Paul DuBois"
+    ],
+    "publisher": "Sams",
+    "publishedDate": "2001-08-03",
+    "description": "The book employs a practical learn-by-doing approach that demonstrates development techniques by building complete applications, not just fragmentary pieces.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0735710546"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780735710542"
+     }
+    ],
+    "pageCount": 529,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id=f1FFzVqy9I8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id=f1FFzVqy9I8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=f1FFzVqy9I8C&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=53&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=f1FFzVqy9I8C&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

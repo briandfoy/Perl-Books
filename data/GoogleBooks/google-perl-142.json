@@ -1,0 +1,59 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 485,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "fL8BzMjbAEsC",
+   "etag": "3sYujJc2FD0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fL8BzMjbAEsC",
+   "volumeInfo": {
+    "title": "Einführung in Perl",
+    "authors": [
+     "Randal L. Schwartz",
+     "Tom Phoenix",
+     "Brian D. Foy"
+    ],
+    "publisher": "O'Reilly Germany",
+    "publishedDate": "2009-01-30",
+    "description": "Uns hat es jedenfalls Spaß gemacht, dieses Buch zu schreiben.1 Fragen und \u003cbr\u003e\r\nAntworten Wahrscheinlich haben Sie einige Fragen zu \u003cb\u003ePerl\u003c/b\u003e, und vielleicht auch \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3897218879"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783897218871"
+     }
+    ],
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id=fL8BzMjbAEsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id=fL8BzMjbAEsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=fL8BzMjbAEsC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=143&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=fL8BzMjbAEsC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

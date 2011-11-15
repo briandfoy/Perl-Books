@@ -1,0 +1,60 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 538,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "EeDqu4npkqMC",
+   "etag": "5Fm5ao6kY9I",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EeDqu4npkqMC",
+   "volumeInfo": {
+    "title": "Learning Perl objects, references, and modules",
+    "authors": [
+     "Randal L. Schwartz",
+     "Tom Phoenix"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2003",
+    "description": "This is the book that separates the Perl dabbler from the Perl programmer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596004788"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596004781"
+     }
+    ],
+    "pageCount": 205,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id=EeDqu4npkqMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id=EeDqu4npkqMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=EeDqu4npkqMC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=31&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=EeDqu4npkqMC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 476,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "RZa7Ig-n0gMC",
+   "etag": "w8kXs6NttdA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RZa7Ig-n0gMC",
+   "volumeInfo": {
+    "title": "Programmation en Perl",
+    "authors": [
+     "Larry Wall",
+     "Tom Christiansen",
+     "Jon Orwant"
+    ],
+    "publisher": "O'Reilly Media, Inc.",
+    "publishedDate": "2001",
+    "description": "Programmation en Perl n&#39;est pas seulement un livre sur Perl, c&#39;est aussi une introduction unique à un langage et à sa culture.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "2841771407"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9782841771400"
+     }
+    ],
+    "pageCount": 1045,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 7,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id=RZa7Ig-n0gMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id=RZa7Ig-n0gMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "fr",
+    "previewLink": "http://books.google.com/books?id=RZa7Ig-n0gMC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=174&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=RZa7Ig-n0gMC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

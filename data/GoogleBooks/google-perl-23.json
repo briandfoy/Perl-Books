@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 543,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "IzdJIax6J5oC",
+   "etag": "+MbfS6jo9PU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IzdJIax6J5oC",
+   "volumeInfo": {
+    "title": "Perl cookbook",
+    "authors": [
+     "Tom Christiansen",
+     "Nathan Torkington"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2003",
+    "description": "A comprehensive guide to the programming language covers updating text and binary files, subroutines, libraries, data structures, signals, screen addressing, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596003137"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596003135"
+     }
+    ],
+    "pageCount": 927,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 23,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id=IzdJIax6J5oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id=IzdJIax6J5oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=IzdJIax6J5oC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=24&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=IzdJIax6J5oC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=IzdJIax6J5oC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

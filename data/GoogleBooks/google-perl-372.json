@@ -1,0 +1,49 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 380,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "tYBOHAAACAAJ",
+   "etag": "CsMxUyVIkiw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tYBOHAAACAAJ",
+   "volumeInfo": {
+    "title": "Deficient generalized Fibonacci maximum path graphs",
+    "authors": [
+     "Yehoshua Perl",
+     "Shmuel Zaks"
+    ],
+    "publishedDate": "1978",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:79621573"
+     }
+    ],
+    "pageCount": 30,
+    "printType": "BOOK",
+    "categories": [
+     "Graph theory"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=tYBOHAAACAAJ&dq=perl&ie=ISO-8859-1&cd=373&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=tYBOHAAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

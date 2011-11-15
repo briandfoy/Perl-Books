@@ -1,0 +1,59 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 530,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "F4zmNkwVL3cC",
+   "etag": "mJZeZcWu2Xw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F4zmNkwVL3cC",
+   "volumeInfo": {
+    "title": "CGI programming in C & Perl",
+    "authors": [
+     "Thomas Boutell"
+    ],
+    "publisher": "Addison-Wesley Professional",
+    "publishedDate": "1996",
+    "description": "CGI Programming in C and Perl shows you how to create theseinteractive, multimedia documents via CGI programming in two practicallanguages: C, which has ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0201422190"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780201422191"
+     }
+    ],
+    "pageCount": 402,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id=F4zmNkwVL3cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id=F4zmNkwVL3cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=F4zmNkwVL3cC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=64&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=F4zmNkwVL3cC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

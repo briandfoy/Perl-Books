@@ -1,0 +1,50 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 380,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "FnapNAAACAAJ",
+   "etag": "zbT640ruTJo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FnapNAAACAAJ",
+   "volumeInfo": {
+    "title": "Israel",
+    "subtitle": "parliamentary system",
+    "authors": [
+     "Raphael Perl",
+     "Library of Congress. Law Library"
+    ],
+    "publishedDate": "1978",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:2008614145"
+     }
+    ],
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Legislative power"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FnapNAAACAAJ&dq=perl&ie=ISO-8859-1&cd=380&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=FnapNAAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

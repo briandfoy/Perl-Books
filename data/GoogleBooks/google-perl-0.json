@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 575,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "l2IwEuRjeNwC",
+   "etag": "2qe1gcZApxA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/l2IwEuRjeNwC",
+   "volumeInfo": {
+    "title": "Learning Perl",
+    "authors": [
+     "Randal L. Schwartz, Brian D. Foy, Tom Phoenix",
+     "Randal Schwartz",
+     "brian foy",
+     "Tom Phoenix"
+    ],
+    "publisher": "O'Reilly Media, Inc.",
+    "publishedDate": "2011-06-23",
+    "description": "If you&#39;re just getting started with Perl, this is the book you want—whether you&#39;re a programmer, system administrator, or web hacker.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1449313140"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781449313142"
+     }
+    ],
+    "pageCount": 390,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 31,
+    "contentVersion": "0.2.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id=l2IwEuRjeNwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id=l2IwEuRjeNwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=l2IwEuRjeNwC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=l2IwEuRjeNwC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.27,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=l2IwEuRjeNwC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 527,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "C88KrD4enWkC",
+   "etag": "hNA8vu5hCWE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/C88KrD4enWkC",
+   "volumeInfo": {
+    "title": "Genomic Perl",
+    "subtitle": "from bioinformatics basics to working code",
+    "authors": [
+     "Rex A. Dwyer"
+    ],
+    "publisher": "Cambridge Univ Pr",
+    "publishedDate": "2003",
+    "description": "Explains many computational molecular biology problems and how to implement solutions to them in Perl.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "052180177X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521801775"
+     }
+    ],
+    "pageCount": 334,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id=C88KrD4enWkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id=C88KrD4enWkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=C88KrD4enWkC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=70&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=C88KrD4enWkC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

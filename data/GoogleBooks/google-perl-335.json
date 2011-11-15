@@ -1,0 +1,54 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 395,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "1qBicAAACAAJ",
+   "etag": "I7PAeUrZ4/Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1qBicAAACAAJ",
+   "volumeInfo": {
+    "title": "Perl Package Manager",
+    "authors": [
+     "Lambert M Surhone",
+     "Miriam T Timpledon",
+     "Susan F Marseken"
+    ],
+    "publishedDate": "2010-07-11",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "6132087850"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9786132087850"
+     }
+    ],
+    "pageCount": 132,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=1qBicAAACAAJ&dq=perl&ie=ISO-8859-1&cd=336&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=1qBicAAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

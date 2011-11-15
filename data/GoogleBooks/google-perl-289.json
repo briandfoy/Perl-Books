@@ -1,0 +1,52 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 430,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "tj48AAAAIAAJ",
+   "etag": "L8KI+AfwvfA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tj48AAAAIAAJ",
+   "volumeInfo": {
+    "title": "Student flows in California's system of higher education",
+    "authors": [
+     "Lewis J. Perl",
+     "Martin T. Katzman"
+    ],
+    "publishedDate": "1969*",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105030850981"
+     }
+    ],
+    "pageCount": 488,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id=tj48AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id=tj48AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=tj48AAAAIAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=290&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=tj48AAAAIAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

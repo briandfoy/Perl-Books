@@ -1,0 +1,67 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 536,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "H866jakr4zcC",
+   "etag": "K/Mfn+pKpj0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/H866jakr4zcC",
+   "volumeInfo": {
+    "title": "Perl for Oracle DBAs",
+    "authors": [
+     "Andy Duncan",
+     "Jared Still"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2002",
+    "description": "Offers practical guidelines on how to use the popular open source language Perl to manage, monitor, and tune Oracle databases, describing such Oracle/Perl ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596002106"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596002107"
+     }
+    ],
+    "pageCount": 602,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "0.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id=H866jakr4zcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id=H866jakr4zcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=H866jakr4zcC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=42&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=H866jakr4zcC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.19,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=H866jakr4zcC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

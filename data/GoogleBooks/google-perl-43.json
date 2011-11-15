@@ -1,0 +1,70 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 535,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PoRQcHwiLcUC",
+   "etag": "EOcBHIqjn6o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PoRQcHwiLcUC",
+   "volumeInfo": {
+    "title": "Perl in a nutshell",
+    "authors": [
+     "Nathan Patwardhan",
+     "Ellen Siever",
+     "Stephen Spainhour"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2002",
+    "description": "Covers the basic features of the Perl programming language, including command-line options, built-in functions, syntax, special variables, and regular ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596002416"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596002411"
+     }
+    ],
+    "pageCount": 737,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "0.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id=PoRQcHwiLcUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id=PoRQcHwiLcUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=PoRQcHwiLcUC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=44&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=PoRQcHwiLcUC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.27,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=PoRQcHwiLcUC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

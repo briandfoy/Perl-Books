@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 535,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "tTKSbHINlvwC",
+   "etag": "fyfuTVP9ohs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tTKSbHINlvwC",
+   "volumeInfo": {
+    "title": "Web, graphics and Perl/Tk",
+    "subtitle": "best of the Perl journal",
+    "authors": [
+     "Jon Orwant"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2003",
+    "description": "Forty articles from the first five years of &quot;The Perl Journal&quot; discuss web site development, techniques for creating graphics, and using the Perl/TK toolkit for ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596003110"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596003111"
+     }
+    ],
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "0.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id=tTKSbHINlvwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id=tTKSbHINlvwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=tTKSbHINlvwC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=48&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=tTKSbHINlvwC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.25,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=tTKSbHINlvwC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 467,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "dQVeMvaQomgC",
+   "etag": "T0Lr765Wx/U",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dQVeMvaQomgC",
+   "volumeInfo": {
+    "title": "Minimal Perl For Unix And Linux People",
+    "authors": [
+     "Tim Maher"
+    ],
+    "publisher": "Dreamtech Press",
+    "publishedDate": "2006-10-16",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8177227041"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788177227048"
+     }
+    ],
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=dQVeMvaQomgC&dq=perl&ie=ISO-8859-1&cd=197&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=dQVeMvaQomgC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

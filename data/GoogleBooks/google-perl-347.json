@@ -1,0 +1,56 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 390,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xxZTAAAACAAJ",
+   "etag": "evtJD5+OEGQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xxZTAAAACAAJ",
+   "volumeInfo": {
+    "title": "Don't sing before breakfast, don't sleep in the moonlight",
+    "subtitle": "everyday superstitions and how they began",
+    "authors": [
+     "Lila Perl"
+    ],
+    "publisher": "Houghton Mifflin",
+    "publishedDate": "1988-04",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0899195040"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780899195049"
+     }
+    ],
+    "pageCount": 90,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xxZTAAAACAAJ&dq=perl&ie=ISO-8859-1&cd=348&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xxZTAAAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

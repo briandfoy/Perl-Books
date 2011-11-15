@@ -1,0 +1,54 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 400,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "r78fkgAACAAJ",
+   "etag": "l3qBl4NjRN8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/r78fkgAACAAJ",
+   "volumeInfo": {
+    "title": "Higher-Order Perl",
+    "authors": [
+     "Lambert M Surhone",
+     "Mariam T Tennoe",
+     "Susan F Henssonow"
+    ],
+    "publishedDate": "2010-09-29",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "613316543X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9786133165434"
+     }
+    ],
+    "pageCount": 72,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=r78fkgAACAAJ&dq=perl&ie=ISO-8859-1&cd=329&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=r78fkgAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

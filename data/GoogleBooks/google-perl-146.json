@@ -1,0 +1,53 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 485,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "t98WAQAAIAAJ",
+   "etag": "2hA38xR/GZA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t98WAQAAIAAJ",
+   "volumeInfo": {
+    "title": "I was a doctor in Auschwitz",
+    "authors": [
+     "Gisella Perl"
+    ],
+    "publishedDate": "1998-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105113664226"
+     }
+    ],
+    "pageCount": 189,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id=t98WAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id=t98WAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=t98WAQAAIAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=147&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=t98WAQAAIAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

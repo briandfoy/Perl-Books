@@ -1,0 +1,61 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 546,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "delHeXNUCOEC",
+   "etag": "Fh+43PKGe10",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/delHeXNUCOEC",
+   "volumeInfo": {
+    "title": "Perl 6 and Parrot essentials",
+    "authors": [
+     "Allison Randal",
+     "Dan Sugalski",
+     "Leopold Tötsch"
+    ],
+    "publisher": "O'Reilly Media, Inc.",
+    "publishedDate": "2004",
+    "description": "This look at Perl 6 uncovers developments in Parrot - the interpreter engine that will execute code written in the new Perl 6 language and the most ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "059600737X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596007379"
+     }
+    ],
+    "pageCount": 279,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id=delHeXNUCOEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id=delHeXNUCOEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=delHeXNUCOEC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=16&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=delHeXNUCOEC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

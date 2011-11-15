@@ -1,0 +1,59 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 535,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "fltHkK3iLBYC",
+   "etag": "weRlpbYvYZE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fltHkK3iLBYC",
+   "volumeInfo": {
+    "title": "Programming Perl in the .NET environment",
+    "authors": [
+     "Yevgeny Menaker",
+     "Michael Saltzman",
+     "Robert J. Oberg"
+    ],
+    "publisher": "Addison-Wesley Professional",
+    "publishedDate": "2003",
+    "description": "Using extensive code examples and a running case study, this book gives you practical insight for building robust object-oriented PerlNET applications, ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0130652067"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780130652065"
+     }
+    ],
+    "pageCount": 464,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id=fltHkK3iLBYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id=fltHkK3iLBYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=fltHkK3iLBYC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=50&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=fltHkK3iLBYC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

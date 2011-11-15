@@ -1,0 +1,57 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 476,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "kVd6p-AiY8EC",
+   "etag": "0srJ9Er4tV8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kVd6p-AiY8EC",
+   "volumeInfo": {
+    "title": "Perl Programming For Bioinformatics",
+    "authors": [
+     "Bal"
+    ],
+    "publisher": "Tata McGraw-Hill Education",
+    "publishedDate": "2003",
+    "description": "This book introduces Bioinformatics and its tools and techniques to a new hybrid professional the biologist and the would-be informatician and encourages to use ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0070474478"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780070474475"
+     }
+    ],
+    "pageCount": 395,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id=kVd6p-AiY8EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id=kVd6p-AiY8EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=kVd6p-AiY8EC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=171&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=kVd6p-AiY8EC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

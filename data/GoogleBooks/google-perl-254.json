@@ -1,0 +1,51 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 438,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "pRtZAAAAYAAJ",
+   "etag": "sg9dzuLIrcc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pRtZAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Don't ask Miranda",
+    "authors": [
+     "Lila Perl"
+    ],
+    "publishedDate": "1981",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PSU:000033672434"
+     }
+    ],
+    "pageCount": 164,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id=pRtZAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id=pRtZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=pRtZAAAAYAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=255&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=pRtZAAAAYAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

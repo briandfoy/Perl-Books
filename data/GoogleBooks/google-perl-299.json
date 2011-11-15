@@ -1,0 +1,60 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 417,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "qEsPAQAAMAAJ",
+   "etag": "1CuLCA2RPew",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qEsPAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Mastering regular expressions",
+    "subtitle": "powerful techniques for Perl and other tools",
+    "authors": [
+     "Jeffrey E. F. Friedl"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "1997",
+    "description": "Some of \u003cb\u003ePerl&#39;s\u003c/b\u003e programming constructs superficially resemble those of C or other \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e The way you wield \u003cb\u003ePerl\u003c/b\u003e to solve a problem — The \u003cb\u003ePerl\u003c/b\u003e Way— is very \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1565922573"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781565922570"
+     }
+    ],
+    "pageCount": 342,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 21,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id=qEsPAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id=qEsPAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=qEsPAQAAMAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=300&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=qEsPAQAAMAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

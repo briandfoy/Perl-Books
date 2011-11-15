@@ -1,0 +1,50 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 409,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "t_wWRgAACAAJ",
+   "etag": "KsfdAi02fjE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t_wWRgAACAAJ",
+   "volumeInfo": {
+    "title": "International regulation of narcotics between the United States and Mexico",
+    "subtitle": "prepared by Raphael Perl",
+    "authors": [
+     "Raphael Perl",
+     "Library of Congress. European Law Division"
+    ],
+    "publishedDate": "1976",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:3378602"
+     }
+    ],
+    "pageCount": 20,
+    "printType": "BOOK",
+    "categories": [
+     "Narcotics, Control of"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=t_wWRgAACAAJ&dq=perl&ie=ISO-8859-1&cd=325&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=t_wWRgAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 436,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xdvijdJ3_5UC",
+   "etag": "VUm44xUDxh4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xdvijdJ3_5UC",
+   "volumeInfo": {
+    "title": "The Telltale Summer of Tina C.",
+    "authors": [
+     "Lila Perl"
+    ],
+    "publisher": "Scholastic",
+    "publishedDate": "1984-07-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0590413244"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780590413244"
+     }
+    ],
+    "pageCount": 202,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id=xdvijdJ3_5UC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id=xdvijdJ3_5UC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xdvijdJ3_5UC&q=perl&dq=perl&ie=ISO-8859-1&cd=256&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xdvijdJ3_5UC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 383,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "BaGzSgAACAAJ",
+   "etag": "NrQDKELlryE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BaGzSgAACAAJ",
+   "volumeInfo": {
+    "title": "Anti-terrorism policy",
+    "subtitle": "a pro-con discussion of retaliation and deterrence options",
+    "authors": [
+     "James P. Wootten",
+     "Raphael Perl",
+     "Library of Congress. Congressional Research Service"
+    ],
+    "publishedDate": "1985",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:13286932"
+     }
+    ],
+    "pageCount": 34,
+    "printType": "BOOK",
+    "categories": [
+     "Terrorism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=BaGzSgAACAAJ&dq=perl&ie=ISO-8859-1&cd=367&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=BaGzSgAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 391,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "L8RbAgAACAAJ",
+   "etag": "qRY5ZxhP78w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/L8RbAgAACAAJ",
+   "volumeInfo": {
+    "title": "Junk Food, Fast Food, Health Food",
+    "subtitle": "What America Eats and Why",
+    "authors": [
+     "Lila Perl"
+    ],
+    "publisher": "Clarion Books",
+    "publishedDate": "1980-10",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0395300606"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780395300602"
+     }
+    ],
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=L8RbAgAACAAJ&dq=perl&ie=ISO-8859-1&cd=345&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=L8RbAgAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 454,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "SbBQAAAAMAAJ",
+   "etag": "HfJqEN8dfg0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/SbBQAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Proceedings of the Perl Conference 4.0",
+    "subtitle": "July 17-20, 2000, Monterey, California",
+    "authors": [
+     "Perl Conference 4"
+    ],
+    "publisher": "Oreilly & Associates Inc",
+    "publishedDate": "2000-11",
+    "description": "Lingua: : Roma na:: \u003cb\u003ePerl\u003c/b\u003e igata \u003cb\u003ePerl\u003c/b\u003e for the XXI-imus Century Damian Conway \u003cbr\u003e\r\nSchool of Computer Science and Software Engineering Monash University Clayton, \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596000138"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596000134"
+     }
+    ],
+    "pageCount": 135,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id=SbBQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id=SbBQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=SbBQAAAAMAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=222&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=SbBQAAAAMAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

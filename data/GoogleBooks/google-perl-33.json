@@ -1,0 +1,59 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 538,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "4RURWDZ2bj0C",
+   "etag": "fGophpxNk78",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4RURWDZ2bj0C",
+   "volumeInfo": {
+    "title": "Perl/Tk pocket reference",
+    "authors": [
+     "Stephen Lidie"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "1998-11-01",
+    "description": "And Perl/Tk programs run on UNIX and Windows-based computers. This small book is a handy reference guide geared toward the advanced Perl/Tk programmer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1565925173"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781565925175"
+     }
+    ],
+    "pageCount": 100,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id=4RURWDZ2bj0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id=4RURWDZ2bj0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4RURWDZ2bj0C&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=34&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=4RURWDZ2bj0C&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

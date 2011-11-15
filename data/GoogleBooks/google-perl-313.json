@@ -1,0 +1,55 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 415,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "cm_6tgAACAAJ",
+   "etag": "ScsAud2e6U0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cm_6tgAACAAJ",
+   "volumeInfo": {
+    "title": "Programming Perl",
+    "authors": [
+     "Randal L. Schwartz",
+     "Larry Wall"
+    ],
+    "publishedDate": "1991-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0937175641"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780937175644"
+     }
+    ],
+    "pageCount": 482,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 23,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=cm_6tgAACAAJ&dq=perl&ie=ISO-8859-1&cd=314&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=cm_6tgAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

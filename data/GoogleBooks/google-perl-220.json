@@ -1,0 +1,57 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 454,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "fTUbQyUuQ94C",
+   "etag": "404J7gek5FA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fTUbQyUuQ94C",
+   "volumeInfo": {
+    "title": "Perl Hacks",
+    "subtitle": "プロが教えるテクニック&ツール101選",
+    "publisher": "O'Reilly Japan",
+    "publishedDate": "2007-01",
+    "description": "ついに出た!PerlをテーマにしたHacks本!Perlプログラマの心をくすぐる萌えるハックが満載。執筆陣には名著『Perlベストプ ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "4873113148"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9784873113142"
+     }
+    ],
+    "pageCount": 327,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id=fTUbQyUuQ94C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id=fTUbQyUuQ94C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "ja",
+    "previewLink": "http://books.google.com/books?id=fTUbQyUuQ94C&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=221&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=fTUbQyUuQ94C&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

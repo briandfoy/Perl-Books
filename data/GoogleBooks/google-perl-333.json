@@ -1,0 +1,42 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 398,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "-SD2PgAACAAJ",
+   "etag": "r77yFrcr4Nk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-SD2PgAACAAJ",
+   "volumeInfo": {
+    "title": "Perl programmers reference guide",
+    "subtitle": "perl 5.005, patch 02; Dateiformat: Adobe PostScript, Text-Version",
+    "publishedDate": "1998",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:314480712"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=-SD2PgAACAAJ&dq=perl&ie=ISO-8859-1&cd=334&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=-SD2PgAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

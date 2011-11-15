@@ -1,0 +1,58 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 446,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "oaFQAAAAMAAJ",
+   "etag": "3/4r/8/v3J0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oaFQAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Software engineering with Perl",
+    "authors": [
+     "Carl Dichter",
+     "Mark Pease"
+    ],
+    "publisher": "Prentice Hall",
+    "publishedDate": "1995",
+    "description": "Larry didn&#39;t want to create a new, special tool that just did reports, so he \u003cbr\u003e\r\ncreated \u003cb\u003ePerl\u003c/b\u003e. With it, he could create custom reports as needed, \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "013016965X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780130169655"
+     }
+    ],
+    "pageCount": 282,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id=oaFQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id=oaFQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=oaFQAAAAMAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=234&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=oaFQAAAAMAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

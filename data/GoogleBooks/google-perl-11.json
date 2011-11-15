@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 547,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "gJf9tI2mytIC",
+   "etag": "jNTxnFg5sCc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gJf9tI2mytIC",
+   "volumeInfo": {
+    "title": "Perl best practices",
+    "authors": [
+     "Damian Conway"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2005-07-12",
+    "description": "Presents guidelines on the art of coding with Perl, covering such topics as naming conventions, data and control structures, program decomposition, interface ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596001738"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596001735"
+     }
+    ],
+    "pageCount": 517,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 21,
+    "contentVersion": "0.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id=gJf9tI2mytIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id=gJf9tI2mytIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=gJf9tI2mytIC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=12&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=gJf9tI2mytIC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 17.27,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=gJf9tI2mytIC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

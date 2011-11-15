@@ -1,0 +1,50 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 394,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "iym6bwAACAAJ",
+   "etag": "R6062HwA9FI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iym6bwAACAAJ",
+   "volumeInfo": {
+    "title": "Learning Perl",
+    "authors": [
+     "Randal L. Schwartz"
+    ],
+    "publishedDate": "1994",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:31991120"
+     }
+    ],
+    "pageCount": 246,
+    "printType": "BOOK",
+    "categories": [
+     "Perl (Computer program language)"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 29,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=iym6bwAACAAJ&dq=perl&ie=ISO-8859-1&cd=340&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=iym6bwAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

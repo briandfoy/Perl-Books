@@ -1,0 +1,57 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 530,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "GvGCdRh1ryMC",
+   "etag": "6V6RsAXqewA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GvGCdRh1ryMC",
+   "volumeInfo": {
+    "title": "Perl developer's dictionary",
+    "authors": [
+     "Clinton Pierce"
+    ],
+    "publisher": "Sams Publishing",
+    "publishedDate": "2002",
+    "description": "Each major section of the book is prefaced with a short introduction to provide background material on the subject at hand, and then is followed by a series of  ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0672320673"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780672320675"
+     }
+    ],
+    "pageCount": 612,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id=GvGCdRh1ryMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id=GvGCdRh1ryMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=GvGCdRh1ryMC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=61&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=GvGCdRh1ryMC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

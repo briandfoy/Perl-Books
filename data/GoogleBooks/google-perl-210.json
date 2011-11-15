@@ -1,0 +1,56 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 460,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "9UfRzgIt41EC",
+   "etag": "YnTztLP9nkE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9UfRzgIt41EC",
+   "volumeInfo": {
+    "title": "Me and Fat Glenda",
+    "authors": [
+     "Lila Perl"
+    ],
+    "publisher": "Simon Pulse",
+    "publishedDate": "1987-12",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0671605038"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780671605032"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id=9UfRzgIt41EC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id=9UfRzgIt41EC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9UfRzgIt41EC&q=perl&dq=perl&ie=ISO-8859-1&cd=211&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=9UfRzgIt41EC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

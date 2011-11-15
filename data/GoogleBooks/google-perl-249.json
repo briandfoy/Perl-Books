@@ -1,0 +1,53 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 438,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "zv8NAQAAMAAJ",
+   "etag": "4TWFlogRj1c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zv8NAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Ghana and Ivory Coast",
+    "subtitle": "spotlight on West Africa",
+    "authors": [
+     "Lila Perl"
+    ],
+    "publisher": "William Morrow &Company",
+    "publishedDate": "1975-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:39000003495913"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id=zv8NAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id=zv8NAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=zv8NAQAAMAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=250&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=zv8NAQAAMAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

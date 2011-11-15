@@ -1,0 +1,55 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 435,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Zh6SAAAAIAAJ",
+   "etag": "3FJ/F36dYSQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Zh6SAAAAIAAJ",
+   "volumeInfo": {
+    "title": "The politics of improving urban air quality",
+    "authors": [
+     "Wyn Grant",
+     "Anthony Perl",
+     "Peter Knoepfel"
+    ],
+    "publisher": "Edward Elgar Pub",
+    "publishedDate": "1999",
+    "description": "Introduction Wyn Grant, Peter Knoepfel and Anthony \u003cb\u003ePerl\u003c/b\u003e Air pollution from \u003cbr\u003e\r\nmobile sources (cars and other vehicles) is one of the more pressing and \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105024341591"
+     }
+    ],
+    "pageCount": 186,
+    "printType": "BOOK",
+    "categories": [
+     "Nature"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id=Zh6SAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id=Zh6SAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Zh6SAAAAIAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=260&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Zh6SAAAAIAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

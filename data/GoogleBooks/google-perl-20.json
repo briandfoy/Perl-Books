@@ -1,0 +1,61 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 545,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "k9cyBCKuL28C",
+   "etag": "iixs5I7Ve1E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k9cyBCKuL28C",
+   "volumeInfo": {
+    "title": "CGI programming with Perl",
+    "authors": [
+     "Scott Guelich",
+     "Shishir Gundavaram",
+     "Gunther Birznieks"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2000",
+    "description": "Explains how to use CGI to provide information servers on the Web and includes coverage of Perl Version 5, CGI.pm, CGI_lite, FastCGI, and mod_perl.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1565924193"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781565924192"
+     }
+    ],
+    "pageCount": 451,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id=k9cyBCKuL28C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id=k9cyBCKuL28C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=k9cyBCKuL28C&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=21&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=k9cyBCKuL28C&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

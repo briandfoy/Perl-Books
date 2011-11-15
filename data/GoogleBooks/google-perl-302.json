@@ -1,0 +1,57 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 415,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "lY5wQgAACAAJ",
+   "etag": "aP87G6vhYQI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lY5wQgAACAAJ",
+   "volumeInfo": {
+    "title": "Perl programmer's reference",
+    "authors": [
+     "Martin C. Brown"
+    ],
+    "publisher": "Computing McGraw-Hill",
+    "publishedDate": "1999",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0072121424"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780072121421"
+     }
+    ],
+    "pageCount": 380,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id=lY5wQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id=lY5wQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lY5wQgAACAAJ&dq=perl&ie=ISO-8859-1&cd=303&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=lY5wQgAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

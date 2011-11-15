@@ -1,0 +1,52 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 430,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Kh4OAQAAMAAJ",
+   "etag": "LDxvD0frfFo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Kh4OAQAAMAAJ",
+   "volumeInfo": {
+    "title": "East Africa: Kenya, Tanzania, Uganda",
+    "authors": [
+     "Lila Perl"
+    ],
+    "publisher": "William Morrow &Company",
+    "publishedDate": "1973-09",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "IND:30000001462948"
+     }
+    ],
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id=Kh4OAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id=Kh4OAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Kh4OAQAAMAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=289&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Kh4OAQAAMAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

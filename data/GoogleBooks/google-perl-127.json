@@ -1,0 +1,58 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 497,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "cLd9ZuyVKc8C",
+   "etag": "JQg4EDGlr6s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cLd9ZuyVKc8C",
+   "volumeInfo": {
+    "title": "Perl",
+    "authors": [
+     "Jürgen Schröter",
+     "Helmut Seidel"
+    ],
+    "publisher": "Oldenbourg Wissenschaftsverlag",
+    "publishedDate": "2003-04-30",
+    "description": "Besonders schätze ich ein weiteres Highlight von \u003cb\u003ePerl\u003c/b\u003e, nämlich die regulären \u003cbr\u003e\r\nAusdrücke, die ein flexibles Suchen nach Mustern und ein leistungsfähiges \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3486258893"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783486258899"
+     }
+    ],
+    "pageCount": 356,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id=cLd9ZuyVKc8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id=cLd9ZuyVKc8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=cLd9ZuyVKc8C&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=128&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=cLd9ZuyVKc8C&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

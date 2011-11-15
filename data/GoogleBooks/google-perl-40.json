@@ -1,0 +1,77 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 536,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "4NR81ru0LG4C",
+   "etag": "BR0vuC3rpI4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4NR81ru0LG4C",
+   "volumeInfo": {
+    "title": "Effective Perl Programming",
+    "subtitle": "Ways to Write Better, More Idiomatic Perl",
+    "authors": [
+     "Joseph N. Hall",
+     "Joshua McAdams",
+     "Brian D. Foy"
+    ],
+    "publisher": "Addison-Wesley Professional",
+    "publishedDate": "2010-04-19",
+    "description": "A hands-on, problem-solving guide to Perl programming explains how to enhance one&#39;s profiency in Perl and includes useful examples and code, as well as self ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0321496949"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780321496942"
+     }
+    ],
+    "pageCount": 473,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "contentVersion": "0.2.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id=4NR81ru0LG4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id=4NR81ru0LG4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=4NR81ru0LG4C&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=41&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=4NR81ru0LG4C&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.79,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=4NR81ru0LG4C&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Effective_Perl_Programming-sample-epub.acsm?id=4NR81ru0LG4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Effective_Perl_Programming-sample-pdf.acsm?id=4NR81ru0LG4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

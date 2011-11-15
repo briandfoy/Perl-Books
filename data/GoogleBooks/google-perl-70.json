@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 525,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "jkYnG8p7P-8C",
+   "etag": "tx7ymgh9G+Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jkYnG8p7P-8C",
+   "volumeInfo": {
+    "title": "Embedding Perl in HTML with Mason",
+    "authors": [
+     "Dave Rolsky",
+     "Ken Williams"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2002-10-16",
+    "description": "Explains the features of Mason, a Perl-based template for building Web sites, and discusses how to use Mason&#39;s components to streamline web site design and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596002254"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596002251"
+     }
+    ],
+    "pageCount": 297,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id=jkYnG8p7P-8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id=jkYnG8p7P-8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=jkYnG8p7P-8C&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=71&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=jkYnG8p7P-8C&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 27.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 15.39,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=jkYnG8p7P-8C&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

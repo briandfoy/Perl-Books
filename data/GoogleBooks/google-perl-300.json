@@ -1,0 +1,59 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 417,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "9Sx1QgAACAAJ",
+   "etag": "IX2hpec1nh0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9Sx1QgAACAAJ",
+   "volumeInfo": {
+    "title": "Object oriented Perl",
+    "authors": [
+     "Damian Conway"
+    ],
+    "publisher": "Manning Publications",
+    "publishedDate": "2000",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1884777791"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781884777790"
+     }
+    ],
+    "pageCount": 490,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 5,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id=9Sx1QgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id=9Sx1QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=9Sx1QgAACAAJ&dq=perl&ie=ISO-8859-1&cd=301&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=9Sx1QgAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 538,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "yMdEdDknecIC",
+   "etag": "RtNFh/uusf0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yMdEdDknecIC",
+   "volumeInfo": {
+    "title": "Perl programming for biologists",
+    "authors": [
+     "D. Curtis Jamison"
+    ],
+    "publisher": "Wiley-IEEE",
+    "publishedDate": "2003",
+    "description": "Divided into sections on basic, intermediate, and advanced-level Perl, the book includes chapters on: Variables and data types Arrays and hashes Control ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0471430595"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780471430599"
+     }
+    ],
+    "pageCount": 191,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id=yMdEdDknecIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id=yMdEdDknecIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=yMdEdDknecIC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=30&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=yMdEdDknecIC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

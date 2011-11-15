@@ -1,0 +1,69 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 472,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "F4YIIUWb7yMC",
+   "etag": "egtrWhXHvv8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/F4YIIUWb7yMC",
+   "volumeInfo": {
+    "title": "Combinatorial Pattern Matching Algorithms in Computational Biology Using Perl and R",
+    "authors": [
+     "Gabriel Valiente"
+    ],
+    "publisher": "Chapman & Hall/CRC",
+    "publishedDate": "2009-04-02",
+    "description": "This book supplies a comprehensive view of the whole field of combinatorial pattern matching from a computational biology perspective.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "142006973X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781420069730"
+     }
+    ],
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "2.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id=F4YIIUWb7yMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id=F4YIIUWb7yMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=F4YIIUWb7yMC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=193&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=F4YIIUWb7yMC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 92.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 69.71,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=F4YIIUWb7yMC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Combinatorial_Pattern_Matching_Algorithm-sample-pdf.acsm?id=F4YIIUWb7yMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

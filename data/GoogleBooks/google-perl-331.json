@@ -1,0 +1,45 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 399,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "V075ewEACAAJ",
+   "etag": "1zYy/cHHKk4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V075ewEACAAJ",
+   "volumeInfo": {
+    "title": "Programming Perl",
+    "subtitle": "for Perl version 4.019",
+    "authors": [
+     "Johan Vromans"
+    ],
+    "publishedDate": "1991",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:669694394"
+     }
+    ],
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=V075ewEACAAJ&dq=perl&ie=ISO-8859-1&cd=332&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=V075ewEACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

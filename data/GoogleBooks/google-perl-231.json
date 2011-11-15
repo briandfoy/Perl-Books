@@ -1,0 +1,60 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 449,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "QVO6HszRCcQC",
+   "etag": "8uNkhJ8/nEk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QVO6HszRCcQC",
+   "volumeInfo": {
+    "title": "入門Perl DBI",
+    "authors": [
+     "アリゲータデカルト",
+     "ティムバンス"
+    ],
+    "publisher": "O'Reilly Japan",
+    "publishedDate": "2001-08-29",
+    "description": "DBIの基礎から応用までの要点がコンパクトに収められており、また、DBIだけでなく、データベースの概念やSQLについて ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "4873110505"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9784873110509"
+     }
+    ],
+    "pageCount": 377,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id=QVO6HszRCcQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id=QVO6HszRCcQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "ja",
+    "previewLink": "http://books.google.com/books?id=QVO6HszRCcQC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=232&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=QVO6HszRCcQC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

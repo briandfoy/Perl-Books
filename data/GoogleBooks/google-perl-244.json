@@ -1,0 +1,57 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 441,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "I32WDFik94AC",
+   "etag": "xvkiW7uBz6g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I32WDFik94AC",
+   "volumeInfo": {
+    "title": "The secret diary of Katie Dinkerhoff",
+    "authors": [
+     "Lila Perl"
+    ],
+    "publishedDate": "1987-10",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0590411314"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780590411318"
+     }
+    ],
+    "pageCount": 170,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id=I32WDFik94AC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id=I32WDFik94AC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=I32WDFik94AC&q=perl&dq=perl&ie=ISO-8859-1&cd=245&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=I32WDFik94AC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

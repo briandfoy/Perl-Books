@@ -1,0 +1,53 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 474,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "1H9GAAAAYAAJ",
+   "etag": "ooHJ5+sbVpc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1H9GAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Teach yourself Perl 5 for Windows NT in 21 days",
+    "authors": [
+     "Tony Zhang",
+     "David Till"
+    ],
+    "publisher": "Sams Publishing",
+    "publishedDate": "1997-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UVA:X004141804"
+     }
+    ],
+    "pageCount": 868,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id=1H9GAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id=1H9GAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=1H9GAAAAYAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=190&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=1H9GAAAAYAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

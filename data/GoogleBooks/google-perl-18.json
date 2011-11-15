@@ -1,0 +1,59 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 545,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "lzSa6LVV4tcC",
+   "etag": "MIGCobw8qRQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lzSa6LVV4tcC",
+   "volumeInfo": {
+    "title": "Network programming with Perl",
+    "authors": [
+     "Lincoln D. Stein"
+    ],
+    "publisher": "Addison-Wesley Professional",
+    "publishedDate": "2001",
+    "description": "&quot;This is a superb book. Another splendid book from Lincoln, whose mastery and lucid exposition make this a must-have for the serious Perl programmer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0201615711"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780201615715"
+     }
+    ],
+    "pageCount": 754,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id=lzSa6LVV4tcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id=lzSa6LVV4tcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=lzSa6LVV4tcC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=19&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=lzSa6LVV4tcC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

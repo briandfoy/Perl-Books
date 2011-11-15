@@ -1,0 +1,53 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 432,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Bh09AAAAYAAJ",
+   "etag": "npzccRj1p30",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Bh09AAAAYAAJ",
+   "volumeInfo": {
+    "title": "North across the border",
+    "subtitle": "the story of the Mexican Americans",
+    "authors": [
+     "Lila Perl"
+    ],
+    "publisher": "Benchmark Books (NY)",
+    "publishedDate": "2002-01",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173010254000"
+     }
+    ],
+    "pageCount": 112,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id=Bh09AAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id=Bh09AAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Bh09AAAAYAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=276&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Bh09AAAAYAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

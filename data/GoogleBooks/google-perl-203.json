@@ -1,0 +1,58 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 467,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "iOiHAAAACAAJ",
+   "etag": "LkGln8/pS4s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iOiHAAAACAAJ",
+   "volumeInfo": {
+    "title": "Practical Perl with CGI Applications",
+    "authors": [
+     "Chang, Louis",
+     "Elizabeth Chang"
+    ],
+    "publisher": "Addison-Wesley Longman",
+    "publishedDate": "2003-06-15",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1576761126"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781576761120"
+     }
+    ],
+    "pageCount": 664,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id=iOiHAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id=iOiHAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=iOiHAAAACAAJ&dq=perl&ie=ISO-8859-1&cd=204&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=iOiHAAAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

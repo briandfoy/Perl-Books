@@ -1,0 +1,54 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 478,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "OR8iAQAAIAAJ",
+   "etag": "YFTlirKKOEk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OR8iAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Sams teach yourself Perl in 24 hours",
+    "authors": [
+     "Clinton Pierce"
+    ],
+    "publisher": "Sams Publishing",
+    "publishedDate": "2005-06-25",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSC:32106018198710"
+     }
+    ],
+    "pageCount": 462,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id=OR8iAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id=OR8iAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=OR8iAQAAIAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=163&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=OR8iAQAAIAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

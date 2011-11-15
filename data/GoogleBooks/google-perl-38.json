@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 536,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "hexB_4D-DQ4C",
+   "etag": "BmxdxPu7diI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hexB_4D-DQ4C",
+   "volumeInfo": {
+    "title": "Pro Perl parsing",
+    "authors": [
+     "Christopher Frenz"
+    ],
+    "publishedDate": "2005-08-10",
+    "description": "&quot;Pro Perl Parsing&quot; begins with several chapters devoted to key parsing principles, discussing topics pertinent to regular expressions, parsing grammars, and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1590595041"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781590595046"
+     }
+    ],
+    "pageCount": 252,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id=hexB_4D-DQ4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id=hexB_4D-DQ4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=hexB_4D-DQ4C&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=39&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=hexB_4D-DQ4C&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 43.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 31.72,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=hexB_4D-DQ4C&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Pro_Perl_parsing-sample-epub.acsm?id=hexB_4D-DQ4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Pro_Perl_parsing-sample-pdf.acsm?id=hexB_4D-DQ4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

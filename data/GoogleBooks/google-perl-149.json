@@ -1,0 +1,63 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 484,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "MoPxdIF4CscC",
+   "etag": "MUdCKfgOZXg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MoPxdIF4CscC",
+   "volumeInfo": {
+    "title": "New Art City",
+    "subtitle": "Manhattan at Mid-Century",
+    "authors": [
+     "Jed Perl"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2007-02-13",
+    "description": "A panoramic study of mid-twentieth-century New York art and culture focuses on an innovative, revolutionary period in American cultural development, looking at ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1400034655"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781400034659"
+     }
+    ],
+    "pageCount": 656,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 11,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id=MoPxdIF4CscC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id=MoPxdIF4CscC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=MoPxdIF4CscC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=150&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=MoPxdIF4CscC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/New_Art_City-sample-pdf.acsm?id=MoPxdIF4CscC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

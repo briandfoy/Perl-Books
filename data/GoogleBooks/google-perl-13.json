@@ -1,0 +1,68 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 547,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "WMmlodYkdNYC",
+   "etag": "UZktNGdVBcU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WMmlodYkdNYC",
+   "volumeInfo": {
+    "title": "Advanced Perl programming",
+    "authors": [
+     "Simon Cozens"
+    ],
+    "publisher": "O'Reilly Media, Inc.",
+    "publishedDate": "2005-06-28",
+    "description": "This book of spells goes a long way to unlocking those secrets. It has the power to transform the most humble programmer into a Perl wizard.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596004567"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596004569"
+     }
+    ],
+    "pageCount": 281,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 12,
+    "contentVersion": "0.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks0.books.google.com/books?id=WMmlodYkdNYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks0.books.google.com/books?id=WMmlodYkdNYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=WMmlodYkdNYC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=14&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=WMmlodYkdNYC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.79,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=WMmlodYkdNYC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

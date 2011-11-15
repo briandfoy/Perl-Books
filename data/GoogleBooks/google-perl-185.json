@@ -1,0 +1,60 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 476,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "nsyK2ANiCjgC",
+   "etag": "7ixU93/SjDA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nsyK2ANiCjgC",
+   "volumeInfo": {
+    "title": "Perl Kochbuch",
+    "authors": [
+     "Tom Christiansen",
+     "Nathan Torkington"
+    ],
+    "publisher": "O'Reilly Germany",
+    "publishedDate": "2004-02-29",
+    "description": "Verzweifeln Sie nicht; \u003cb\u003ePerl\u003c/b\u003e ist keine Low-Level-Sprache, daher können Zeilen und \u003cbr\u003e\r\nStrings einfach verarbeitet werden. \u003cb\u003ePerl\u003c/b\u003e wurde entworfen, um damit \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3897213664"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783897213661"
+     }
+    ],
+    "pageCount": 990,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id=nsyK2ANiCjgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id=nsyK2ANiCjgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com/books?id=nsyK2ANiCjgC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=186&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=nsyK2ANiCjgC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

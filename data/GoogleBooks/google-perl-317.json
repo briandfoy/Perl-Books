@@ -1,0 +1,54 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 409,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "nLGaAAAACAAJ",
+   "etag": "OdXX30jSJkE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nLGaAAAACAAJ",
+   "volumeInfo": {
+    "title": "Perl CD Bookshelf, Version 3.0",
+    "authors": [
+     "O'Reilly",
+     "O'Reilly & Associates Inc",
+     "Associates"
+    ],
+    "publisher": "Turtleback",
+    "publishedDate": "2002-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0613911938"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780613911931"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=nLGaAAAACAAJ&dq=perl&ie=ISO-8859-1&cd=318&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=nLGaAAAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

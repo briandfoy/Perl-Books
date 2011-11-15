@@ -1,0 +1,59 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 476,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "Wziv7xpS9-QC",
+   "etag": "IHB6QwOnlRk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Wziv7xpS9-QC",
+   "volumeInfo": {
+    "title": "The best test preparation for the advanced placement examination in mathematics, calculus BC",
+    "authors": [
+     "David R. Arterburn",
+     "J. R. Hubbard",
+     "M. A. Perl"
+    ],
+    "publisher": "Research & Education Assn",
+    "publishedDate": "1989-03",
+    "description": "AP CALCULUS BC Completely aligned with today’s AP exam Are you prepared to excel on the AP exam? * Set up a study schedule by following our results-driven ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0878916474"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780878916474"
+     }
+    ],
+    "pageCount": 416,
+    "printType": "BOOK",
+    "categories": [
+     "Antiques & Collectibles"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id=Wziv7xpS9-QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id=Wziv7xpS9-QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Wziv7xpS9-QC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=165&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=Wziv7xpS9-QC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

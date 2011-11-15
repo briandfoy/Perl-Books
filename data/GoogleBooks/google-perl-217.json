@@ -1,0 +1,55 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 457,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "YlU_AQAAIAAJ",
+   "etag": "O09O5sEO1Ps",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YlU_AQAAIAAJ",
+   "volumeInfo": {
+    "title": "Perl resource kit",
+    "authors": [
+     "Larry Wall",
+     "Ellen Siever",
+     "Nate Patwardhan",
+     "Brian Jepson",
+     "O'Reilly & Associates"
+    ],
+    "publishedDate": "1997",
+    "description": "Preface The modules available on CPAN (Comprehensive \u003cb\u003ePerl\u003c/b\u003e Archive Network) are \u003cbr\u003e\r\nan invaluable resource for the \u003cb\u003ePerl\u003c/b\u003e programmer. The functionality covered by \u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCSD:31822025779216"
+     }
+    ],
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id=YlU_AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id=YlU_AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=YlU_AQAAIAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=218&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=YlU_AQAAIAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

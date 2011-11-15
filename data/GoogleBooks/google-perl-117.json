@@ -1,0 +1,53 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 500,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TmlFAQAAIAAJ",
+   "etag": "RtCmhL4KMec",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TmlFAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Perl for exploring DNA",
+    "authors": [
+     "Mark D. LeBlanc",
+     "Betsey Dexter Dyer"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2007-07-16",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105123393030"
+     }
+    ],
+    "pageCount": 276,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id=TmlFAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id=TmlFAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=TmlFAQAAIAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=118&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=TmlFAQAAIAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

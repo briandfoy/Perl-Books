@@ -1,0 +1,49 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 382,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "U7wyYgEACAAJ",
+   "etag": "fh4xqBS4hQw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U7wyYgEACAAJ",
+   "volumeInfo": {
+    "title": "Five writers writing",
+    "subtitle": "case studies of the composing processes of unskilled college writers",
+    "authors": [
+     "Sondra Perl"
+    ],
+    "publishedDate": "1980",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:606323803"
+     }
+    ],
+    "pageCount": 860,
+    "printType": "BOOK",
+    "categories": [
+     "English language"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=U7wyYgEACAAJ&dq=perl&ie=ISO-8859-1&cd=371&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=U7wyYgEACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

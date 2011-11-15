@@ -1,0 +1,56 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 438,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "DC0ks23vpqIC",
+   "etag": "9JYRwqWtfXE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DC0ks23vpqIC",
+   "volumeInfo": {
+    "title": "The hamburger book",
+    "subtitle": "all about hamburgers and hamburger cookery",
+    "authors": [
+     "Lila Perl"
+    ],
+    "publishedDate": "1974",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "081643106X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780816431069"
+     }
+    ],
+    "pageCount": 128,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id=DC0ks23vpqIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id=DC0ks23vpqIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=DC0ks23vpqIC&q=perl&dq=perl&ie=ISO-8859-1&cd=248&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=DC0ks23vpqIC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

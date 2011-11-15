@@ -1,0 +1,54 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 383,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "TLRgAAAACAAJ",
+   "etag": "AJzVW6d5fjk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TLRgAAAACAAJ",
+   "volumeInfo": {
+    "title": "Skepticism and Modern Enmity",
+    "subtitle": "Before and After Eliot",
+    "authors": [
+     "Jeffrey M. Perl"
+    ],
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0608061840"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780608061849"
+     }
+    ],
+    "pageCount": 252,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=TLRgAAAACAAJ&dq=perl&ie=ISO-8859-1&cd=361&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=TLRgAAAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

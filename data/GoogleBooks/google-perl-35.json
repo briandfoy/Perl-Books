@@ -1,0 +1,58 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 536,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "N_QqOniRHXQC",
+   "etag": "elDB5xrEulI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N_QqOniRHXQC",
+   "volumeInfo": {
+    "title": "Perl debugger",
+    "subtitle": "pocket reference",
+    "authors": [
+     "Richard Foley"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2004-01-23",
+    "description": "This little book provides a quick and convenient path to mastery of the Perl debugger and its commands.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596005032"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596005030"
+     }
+    ],
+    "pageCount": 135,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.com/books?id=N_QqOniRHXQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.com/books?id=N_QqOniRHXQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=N_QqOniRHXQC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=36&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=N_QqOniRHXQC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

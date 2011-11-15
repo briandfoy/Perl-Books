@@ -1,0 +1,57 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 509,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "KbdQAAAAMAAJ",
+   "etag": "4W7i0jtTAo8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KbdQAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Perl 6 now",
+    "subtitle": "the core ideas illustrated with Perl 5",
+    "authors": [
+     "Scott Walters"
+    ],
+    "publisher": "Livraria Tempo Real Inform",
+    "publishedDate": "2005",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1590593952"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781590593950"
+     }
+    ],
+    "pageCount": 388,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id=KbdQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id=KbdQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=KbdQAAAAMAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=103&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=KbdQAAAAMAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

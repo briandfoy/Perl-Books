@@ -1,0 +1,54 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 388,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "07ZBOQAACAAJ",
+   "etag": "BfU9Rn/d0xk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/07ZBOQAACAAJ",
+   "volumeInfo": {
+    "title": "Egypt",
+    "subtitle": "rebirth on the Nile",
+    "authors": [
+     "Lila Perl"
+    ],
+    "publisher": "William Morrow &Company",
+    "publishedDate": "1977-01-01",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0688321062"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780688321062"
+     }
+    ],
+    "pageCount": 158,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=07ZBOQAACAAJ&dq=perl&ie=ISO-8859-1&cd=349&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=07ZBOQAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 420,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "rYGsfDW1CXgC",
+   "etag": "Qt4Cu6SAm94",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rYGsfDW1CXgC",
+   "volumeInfo": {
+    "title": "Hunter's Stew and Hangtown Fry",
+    "authors": [
+     "Lila Perl"
+    ],
+    "publisher": "Clarion Books",
+    "publishedDate": "1977-10",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "039528922X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780395289228"
+     }
+    ],
+    "pageCount": 156,
+    "printType": "BOOK",
+    "categories": [
+     "Cooking"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id=rYGsfDW1CXgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id=rYGsfDW1CXgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=rYGsfDW1CXgC&q=perl&dq=perl&ie=ISO-8859-1&cd=294&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=rYGsfDW1CXgC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

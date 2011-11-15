@@ -1,0 +1,60 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 545,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "trejcrrdSwAC",
+   "etag": "KQJPP6awEq4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/trejcrrdSwAC",
+   "volumeInfo": {
+    "title": "Sams teach yourself Perl in 21 days",
+    "authors": [
+     "Laura Lemay",
+     "Rafe Colburn"
+    ],
+    "publisher": "Sams Publishing",
+    "publishedDate": "2002-06-10",
+    "description": "Written by Laura Lemay, this is her third major book after Sams Teach Yourself Web Publishing with HTML in 21 Days and Sams Teach Yourself Java in 21 Days.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0672320355"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780672320354"
+     }
+    ],
+    "pageCount": 676,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "contentVersion": "1.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id=trejcrrdSwAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id=trejcrrdSwAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=trejcrrdSwAC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=18&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=trejcrrdSwAC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

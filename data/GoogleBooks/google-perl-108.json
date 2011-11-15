@@ -1,0 +1,57 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 504,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "bS_IAAAACAAJ",
+   "etag": "JZ4adT+zAhc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bS_IAAAACAAJ",
+   "volumeInfo": {
+    "title": "Cross-platform Perl",
+    "authors": [
+     "Eric Foster-Johnson"
+    ],
+    "publisher": "John Wiley & Sons Inc",
+    "publishedDate": "2000-09",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0764547291"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780764547294"
+     }
+    ],
+    "pageCount": 609,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.com/books?id=bS_IAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks9.books.google.com/books?id=bS_IAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=bS_IAAAACAAJ&dq=perl&ie=ISO-8859-1&cd=109&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=bS_IAAAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

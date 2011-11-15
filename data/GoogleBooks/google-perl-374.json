@@ -1,0 +1,50 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 380,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "sDqQGwAACAAJ",
+   "etag": "BZtib0qhnhI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sDqQGwAACAAJ",
+   "volumeInfo": {
+    "title": "Residential demand for telephone service 1983",
+    "authors": [
+     "Lewis J. Perl",
+     "Central Services Organization",
+     "National Economic Research Associates"
+    ],
+    "publishedDate": "1983",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "LCCN:85244504"
+     }
+    ],
+    "pageCount": 77,
+    "printType": "BOOK",
+    "categories": [
+     "Telephone"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=sDqQGwAACAAJ&dq=perl&ie=ISO-8859-1&cd=375&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=sDqQGwAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}
