@@ -1,0 +1,72 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 520,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "FwU09_VtuHMC",
+   "etag": "Vwhy/rLYvCs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FwU09_VtuHMC",
+   "volumeInfo": {
+    "title": "On Austrian soil",
+    "subtitle": "teaching those I was taught to hate",
+    "authors": [
+     "Sondra Perl"
+    ],
+    "publisher": "State Univ of New York Pr",
+    "publishedDate": "2005",
+    "description": "In &quot;On Austrian Soil, an award-winning teacher, Sondra Perl, opens her classroom to reveal the struggles and successes she encounters when she, not without ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0791463893"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780791463895"
+     }
+    ],
+    "pageCount": 228,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id=FwU09_VtuHMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id=FwU09_VtuHMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=FwU09_VtuHMC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=86&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=FwU09_VtuHMC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.95,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 16.17,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=FwU09_VtuHMC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/On_Austrian_soil-sample-pdf.acsm?id=FwU09_VtuHMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

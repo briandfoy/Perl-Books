@@ -1,0 +1,59 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 483,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "cmadrPVUhWMC",
+   "etag": "htLhFQ84V2Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cmadrPVUhWMC",
+   "volumeInfo": {
+    "title": "Tevya and his daughters",
+    "subtitle": "a play in two acts. Based on the Tevya stories of Sholom Aleichem",
+    "authors": [
+     "Arnold Perl",
+     "Sholem Aleichem"
+    ],
+    "publisher": "Dramatist's Play Service",
+    "publishedDate": "1958",
+    "description": "TEVYA AND HIS DAUGHTERS was first presented by Banner Productions (Howard Da \u003cbr\u003e\r\nSilva — Sanford Friedman — Arnold \u003cb\u003ePerl\u003c/b\u003e — Myron Weinberg) at the Carnegie Hall \u003cbr\u003e\r\n\u003cb\u003e...\u003c/b\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0822211254"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780822211259"
+     }
+    ],
+    "pageCount": 54,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.com/books?id=cmadrPVUhWMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks8.books.google.com/books?id=cmadrPVUhWMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=cmadrPVUhWMC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=152&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=cmadrPVUhWMC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

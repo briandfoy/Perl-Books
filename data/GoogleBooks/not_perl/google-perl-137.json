@@ -1,0 +1,59 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 492,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "hHLh28gcfQMC",
+   "etag": "5sAakSVNmH4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hHLh28gcfQMC",
+   "volumeInfo": {
+    "title": "The integrity gap",
+    "subtitle": "Canada's environmental policy and institutions",
+    "authors": [
+     "Eugene Lee",
+     "Anthony Perl"
+    ],
+    "publisher": "Univ of British Columbia Pr",
+    "publishedDate": "2004-01-01",
+    "description": "&quot; &quot;This book makes a significant contribution to existing policy scholarship, placing the study of Canadian environmental policy within an institutional ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0774809868"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780774809863"
+     }
+    ],
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id=hHLh28gcfQMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id=hHLh28gcfQMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=hHLh28gcfQMC&pg=PP1&dq=perl&ie=ISO-8859-1&cd=138&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=hHLh28gcfQMC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

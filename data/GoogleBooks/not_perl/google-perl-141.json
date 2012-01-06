@@ -1,0 +1,71 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 485,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "K7B71IcrlAgC",
+   "etag": "a5itybYTMJ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/K7B71IcrlAgC",
+   "volumeInfo": {
+    "title": "When Life Gives You O.J.",
+    "authors": [
+     "Erica S. Perl"
+    ],
+    "publisher": "Knopf Books for Young Readers",
+    "publishedDate": "2011-06-14",
+    "description": "Zelly Fried wants a dog more than anything, so at the urging of her grandfather, during the summer before sixth grade she takes care of a &quot;practice dog&quot; made ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0375859241"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780375859243"
+     }
+    ],
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 24,
+    "contentVersion": "1.1.0.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.com/books?id=K7B71IcrlAgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.com/books?id=K7B71IcrlAgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=K7B71IcrlAgC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=142&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=K7B71IcrlAgC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 10.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 10.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=K7B71IcrlAgC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/When_Life_Gives_You_O_J-sample-epub.acsm?id=K7B71IcrlAgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

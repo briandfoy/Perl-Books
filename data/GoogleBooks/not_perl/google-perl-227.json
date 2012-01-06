@@ -1,0 +1,58 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 450,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "75SAAAAAIAAJ",
+   "etag": "GnTJrP7ckdc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/75SAAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Joseph Perl's Revealer of secrets",
+    "subtitle": "the first Hebrew novel",
+    "authors": [
+     "Joseph Perl",
+     "Dov Taylor"
+    ],
+    "publisher": "Westview Pr",
+    "publishedDate": "1997",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0813332133"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813332130"
+     }
+    ],
+    "pageCount": 377,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.com/books?id=75SAAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks2.books.google.com/books?id=75SAAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=75SAAAAAIAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=228&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=75SAAAAAIAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

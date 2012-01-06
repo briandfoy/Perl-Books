@@ -1,0 +1,61 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 478,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "MzWNX-sKutYC",
+   "etag": "+lTYRGoA4G0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MzWNX-sKutYC",
+   "volumeInfo": {
+    "title": "Autoimmunity",
+    "subtitle": "methods and protocols",
+    "authors": [
+     "Andras Perl"
+    ],
+    "publisher": "Humana Pr Inc",
+    "publishedDate": "2004",
+    "description": "This collection of readily reproducible molecular techniques and related in vitro/in vivo model systems can be used to explore the causes of autoimmunity, as ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1588292312"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781588292315"
+     }
+    ],
+    "pageCount": 431,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.com/books?id=MzWNX-sKutYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks7.books.google.com/books?id=MzWNX-sKutYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=MzWNX-sKutYC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=161&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=MzWNX-sKutYC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Autoimmunity-sample-pdf.acsm?id=MzWNX-sKutYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

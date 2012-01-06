@@ -1,0 +1,48 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 383,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "xkrdGwAACAAJ",
+   "etag": "rYea36y8DP8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xkrdGwAACAAJ",
+   "volumeInfo": {
+    "title": "Views from the forest",
+    "subtitle": "natural forest management initiatives in Latin America : report on a workshop held December 3-7, 1990, to assess the experience of 14 natural forest management initiatives throughout Latin America",
+    "authors": [
+     "M.A. Perl",
+     "M.J. Kiernan",
+     "D. MacCaffrey"
+    ],
+    "publishedDate": "1991",
+    "description": "",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:67332782"
+     }
+    ],
+    "pageCount": 30,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=xkrdGwAACAAJ&dq=perl&ie=ISO-8859-1&cd=366&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=xkrdGwAACAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

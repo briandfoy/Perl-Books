@@ -1,0 +1,55 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 449,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "glMuAQAAIAAJ",
+   "etag": "6/m+gWbcr3g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/glMuAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Trevor Winkfield's pageant",
+    "authors": [
+     "Jed Perl",
+     "Trevor Winkfield"
+    ],
+    "publisher": "Hard Pr Inc",
+    "publishedDate": "1997-12-25",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105021559823"
+     }
+    ],
+    "pageCount": 48,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.com/books?id=glMuAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks3.books.google.com/books?id=glMuAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=glMuAQAAIAAJ&q=perl&dq=perl&ie=ISO-8859-1&cd=230&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=glMuAQAAIAAJ&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "accessViewStatus": "NONE"
+   }
+  }
+ ]
+}

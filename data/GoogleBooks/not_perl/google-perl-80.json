@@ -1,0 +1,75 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 521,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "rKhm_AHO6rkC",
+   "etag": "2ETLj1fGwj4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rKhm_AHO6rkC",
+   "volumeInfo": {
+    "title": "Antoine's alphabet",
+    "subtitle": "Watteau and his world",
+    "authors": [
+     "Jed Perl"
+    ],
+    "publisher": "Knopf",
+    "publishedDate": "2008-09-16",
+    "description": "Exploring the complex link between art and life, a portrait of pioneering bohemian artist Antoine Watteau describes the evolution of the artist&#39;s life and ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0307266621"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780307266620"
+     }
+    ],
+    "pageCount": 207,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 9,
+    "contentVersion": "0.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.com/books?id=rKhm_AHO6rkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.com/books?id=rKhm_AHO6rkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=rKhm_AHO6rkC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=81&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=rKhm_AHO6rkC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 13.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=rKhm_AHO6rkC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "acsTokenLink": "http://books.google.com/books/download/Antoine_s_alphabet-sample-epub.acsm?id=rKhm_AHO6rkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Antoine_s_alphabet-sample-pdf.acsm?id=rKhm_AHO6rkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}

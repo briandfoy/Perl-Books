@@ -1,0 +1,73 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 518,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "-KVtSI-19bUC",
+   "etag": "foyL1kjMcUc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-KVtSI-19bUC",
+   "volumeInfo": {
+    "title": "Simple Solutions",
+    "subtitle": "Harness the Power of Passion and Simplicity to Get Results",
+    "authors": [
+     "Thomas Schmitt",
+     "Arnold Perl"
+    ],
+    "publisher": "John Wiley & Sons Inc",
+    "publishedDate": "2006-12-05",
+    "description": "But this is much more than a guide to leadership theory; not only does &quot;Simple Solutions&quot; reveal that the art of great leadership can be learned, it also ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0470048182"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780470048184"
+     }
+    ],
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 2.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.com/books?id=-KVtSI-19bUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks4.books.google.com/books?id=-KVtSI-19bUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=-KVtSI-19bUC&printsec=frontcover&dq=perl&ie=ISO-8859-1&cd=88&source=gbs_api",
+    "infoLink": "http://books.google.com/books?id=-KVtSI-19bUC&dq=perl&ie=ISO-8859-1&source=gbs_api"
+   },
+   "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "USD"
+    },
+    "retailPrice": {
+     "amount": 19.99,
+     "currencyCode": "USD"
+    },
+    "buyLink": "http://books.google.com/books?id=-KVtSI-19bUC&dq=perl&ie=ISO-8859-1&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "pdf": {
+     "acsTokenLink": "http://books.google.com/books/download/Simple_Solutions-sample-pdf.acsm?id=-KVtSI-19bUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "accessViewStatus": "SAMPLE"
+   }
+  }
+ ]
+}
