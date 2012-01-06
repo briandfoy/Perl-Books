@@ -1,0 +1,21 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/314106161?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BA",
+	 "DA"],
+	"lccn":["2002074898"],
+	"lang":"eng",
+	"city":"Beijing",
+	"author":"Andy Duncan and Jared Still.",
+	"ed":"1. ed.",
+	"year":"2002",
+	"isbn":["0596002106"],
+	"title":"Perl for Oracle DBAs : [Perl scripts, applications & tips for database administrators]",
+	"oclcnum":["314106161",
+	 "427450837",
+	 "444192364",
+	 "488812457",
+	 "49991566",
+	 "51683887"]}]}

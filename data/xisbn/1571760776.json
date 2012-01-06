@@ -1,0 +1,19 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/258663447?referer=xid"],
+	"publisher":"Walnut Creek CDROM",
+	"form":["BA"],
+	"lccn":["2002555719",
+	 "97802848"],
+	"lang":"und",
+	"city":"Walnut Creek, Calif.",
+	"author":"[compiled by Steven Grady].",
+	"ed":"Stand: Dezember 1996.",
+	"year":"1996",
+	"isbn":["1571760776"],
+	"title":"Perl : CPAN ; the comprehensive Perl archive network.",
+	"oclcnum":["258663447",
+	 "51193732",
+	 "535399092",
+	 "55755155"]}]}

@@ -1,0 +1,21 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/248840071?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BA",
+	 "DA"],
+	"lccn":["2001036174"],
+	"lang":"eng",
+	"city":"Beijing [u.a.]",
+	"author":"John Callender. [Ed.: Linda Mui and Richard Koman].",
+	"ed":"1. ed.",
+	"year":"2002",
+	"isbn":["1565926471"],
+	"title":"Perl for Web site management : [HTML generation, link checking, simple CGI, and more]",
+	"oclcnum":["248840071",
+	 "427450840",
+	 "462839662",
+	 "469499106",
+	 "47120305",
+	 "51680733"]}]}

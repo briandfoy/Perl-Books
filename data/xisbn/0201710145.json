@@ -1,0 +1,16 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/248076904?referer=xid"],
+	"publisher":"Addison-Wesley",
+	"form":["BA"],
+	"lccn":["00066512"],
+	"lang":"eng",
+	"city":"Boston, Mass. [u.a.]",
+	"author":"Kevin Meltzer, Brent Michalski.",
+	"year":"2001",
+	"isbn":["0201710145"],
+	"title":"Writing CGI application with Perl",
+	"oclcnum":["248076904",
+	 "45460882",
+	 "469628828"]}]}

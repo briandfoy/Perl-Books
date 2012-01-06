@@ -1,0 +1,20 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/247978648?referer=xid"],
+	"publisher":"New Riders",
+	"form":["BA",
+	 "DA"],
+	"lccn":["00101493"],
+	"lang":"eng",
+	"city":"Indianapolis, Ind.",
+	"author":"Dave Roth.",
+	"ed":"2. ed.",
+	"year":"2002",
+	"isbn":["157870216X"],
+	"title":"Win32 Perl programming : the standard extensions",
+	"oclcnum":["247978648",
+	 "427451676",
+	 "47355246",
+	 "48533541",
+	 "488783631"]}]}

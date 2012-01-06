@@ -1,0 +1,17 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/248170052?referer=xid"],
+	"publisher":"Prentice Hall PTR",
+	"form":["BC"],
+	"lccn":["2002280433"],
+	"lang":"eng",
+	"city":"Upper Saddle River, N.J. [u.a.]",
+	"author":"Michael Saltzman.",
+	"year":"2002",
+	"isbn":["0130089656"],
+	"title":"Modern Perl programming",
+	"oclcnum":["248170052",
+	 "473506820",
+	 "48782470",
+	 "492753595"]}]}

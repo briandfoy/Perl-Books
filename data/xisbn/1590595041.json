@@ -1,0 +1,22 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/254659708?referer=xid"],
+	"publisher":"Apress",
+	"form":["BB"],
+	"lccn":["2005017530"],
+	"lang":"eng",
+	"city":"Berkeley, Calif.",
+	"author":"Christopher M. Frenz.",
+	"year":"2005",
+	"isbn":["1590595041"],
+	"title":"Pro Perl parsing : [master parsing concepts and techniques using the Perl language]",
+	"oclcnum":["254659708",
+	 "300219503",
+	 "318298044",
+	 "60715190",
+	 "615141818",
+	 "635092145",
+	 "690009743",
+	 "84842108",
+	 "63686968"]}]}

@@ -1,0 +1,15 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/70161455?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BA"],
+	"lang":"eng",
+	"city":"[Calif.]",
+	"author":"by Jim Bumgardner.",
+	"year":"2006",
+	"isbn":["0596527942"],
+	"title":"Building tag clouds in Perl and PHP",
+	"oclcnum":["70161455",
+	 "731209314",
+	 "748803289"]}]}

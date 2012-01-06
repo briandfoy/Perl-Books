@@ -1,0 +1,19 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/225932773?referer=xid"],
+	"publisher":"SYBEX",
+	"form":["BC"],
+	"lccn":["2001094603"],
+	"lang":"eng",
+	"city":"San Francisco, Calif.",
+	"author":"Martin C. Brown.",
+	"year":"2001",
+	"isbn":["0782140211"],
+	"title":"XML scripting with Perl and Python",
+	"oclcnum":["225932773",
+	 "248331215",
+	 "444920624",
+	 "464113881",
+	 "47726840",
+	 "492098346"]}]}

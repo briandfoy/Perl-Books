@@ -1,0 +1,16 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/248501428?referer=xid"],
+	"publisher":"Wrox Press",
+	"form":["BA"],
+	"lccn":["2001273963"],
+	"lang":"eng",
+	"city":"Birmingham",
+	"author":"Peter Wainwright ....",
+	"year":"2001",
+	"isbn":["1861004494"],
+	"title":"Professional Perl programming",
+	"oclcnum":["248501428",
+	 "461930180",
+	 "46621705"]}]}

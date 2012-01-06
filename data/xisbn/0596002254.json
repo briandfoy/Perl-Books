@@ -1,0 +1,22 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/248574112?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BC"],
+	"lccn":["2002074892"],
+	"lang":"eng",
+	"city":"Beijing [u.a.]",
+	"author":"Dave Rolsky and Ken Williams.",
+	"ed":"1. ed.",
+	"year":"2002",
+	"isbn":["0596002254"],
+	"title":"Embedding Perl in HTML with Mason : [component-based templating system]",
+	"oclcnum":["248574112",
+	 "422450421",
+	 "455922632",
+	 "491721008",
+	 "50291230",
+	 "51528616",
+	 "636556902",
+	 "639934375"]}]}

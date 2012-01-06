@@ -1,0 +1,15 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/438708761?referer=xid"],
+	"publisher":"John Wiley & Sons",
+	"form":["BA",
+	 "DA"],
+	"lang":"eng",
+	"city":"Hoboken",
+	"author":"Patrick Galbraith.",
+	"year":"2009",
+	"isbn":["0470538325"],
+	"title":"Developing Web Applications with Apache, MySQL, memcached, and Perl.",
+	"oclcnum":["438708761",
+	 "460106009"]}]}

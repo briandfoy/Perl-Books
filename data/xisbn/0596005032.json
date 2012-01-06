@@ -1,0 +1,18 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/249161860?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BC"],
+	"lccn":["2004300985"],
+	"lang":"eng",
+	"city":"Beijing [u.a.]",
+	"author":"Richard Foley.",
+	"ed":"1. ed.",
+	"year":"2004",
+	"isbn":["0596005032"],
+	"title":"Perl debugger : pocket reference ; [because no one writes perfect code]",
+	"oclcnum":["249161860",
+	 "316461543",
+	 "53460880",
+	 "54538684"]}]}

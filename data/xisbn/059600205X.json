@@ -1,0 +1,22 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/248086438?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BC",
+	 "DA"],
+	"lang":"eng",
+	"city":"Beijing [u.a.]",
+	"author":"Erik T. Ray and Jason McIntosh.",
+	"ed":"1. ed.",
+	"year":"2002",
+	"isbn":["059600205X"],
+	"title":"Perl and XML : [XML processing with Perl]",
+	"oclcnum":["248086438",
+	 "320000274",
+	 "427450835",
+	 "439217851",
+	 "464914801",
+	 "49044536",
+	 "495427658",
+	 "634878864"]}]}

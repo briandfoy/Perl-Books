@@ -1,0 +1,22 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/246085278?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BA"],
+	"lccn":["00698605"],
+	"lang":"eng",
+	"city":"Beijing [u.a.]",
+	"author":"Jon Orwant; Jarkko Hietaniemi; John Macdonald.",
+	"ed":"1. ed.",
+	"year":"1999",
+	"isbn":["1565923987"],
+	"title":"Mastering algorithms with Perl",
+	"oclcnum":["246085278",
+	 "42400749",
+	 "440649798",
+	 "474048079",
+	 "491119570",
+	 "614479632",
+	 "716054282",
+	 "748805623"]}]}

@@ -1,0 +1,18 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/249764807?referer=xid"],
+	"publisher":"Apress",
+	"form":["BC"],
+	"lccn":["2005282346"],
+	"lang":"eng",
+	"city":"Berkeley, Calif.",
+	"author":"Scott Walters.",
+	"year":"2005",
+	"isbn":["1590593952"],
+	"title":"Perl 6 now : the core ideas illustrated with Perl 5",
+	"oclcnum":["249764807",
+	 "442153015",
+	 "492448684",
+	 "56468043",
+	 "82644435"]}]}

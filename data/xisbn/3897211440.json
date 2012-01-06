@@ -1,0 +1,18 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/217875210?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BA"],
+	"lang":"ger",
+	"city":"Beijing [u.a.]",
+	"author":"Larry Wall, Tom Christiansen & Jon Orwant",
+	"ed":"2.Aufl.,korr. Nachdr.",
+	"originalLang":"eng",
+	"year":"2003",
+	"isbn":["3897211440"],
+	"title":"Programmieren mit Perl",
+	"oclcnum":["217875210",
+	 "248671888",
+	 "354466176",
+	 "76212280"]}]}

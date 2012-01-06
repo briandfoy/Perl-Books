@@ -1,0 +1,21 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/496621908?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BA",
+	 "DA"],
+	"lccn":["2005567878"],
+	"lang":"eng",
+	"city":"[Sebastopol, CA]",
+	"author":"Nathan Patwardhan, Ellen Siever & Stephen Spainhour.",
+	"ed":"Version 4.0.",
+	"year":"2004",
+	"isbn":["0596006225"],
+	"title":"The Perl CD bookshelf",
+	"oclcnum":["496621908",
+	 "54314702",
+	 "634859465",
+	 "76690331",
+	 "723328084",
+	 "174529036"]}]}

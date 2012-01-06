@@ -1,0 +1,17 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/247950266?referer=xid"],
+	"publisher":"Osborne/McGraw-Hill",
+	"form":["BC"],
+	"lccn":["2001265222"],
+	"lang":"eng",
+	"city":"Berkeley, Calif. [u.a.]",
+	"author":"Martin Brown.",
+	"year":"2001",
+	"isbn":["0072126760"],
+	"title":"Debugging Perl : troubleshooting for programmers",
+	"oclcnum":["247950266",
+	 "44437602",
+	 "527387576",
+	 "654964455"]}]}

@@ -1,0 +1,23 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/255369299?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BA"],
+	"lccn":["2005284585"],
+	"lang":"eng",
+	"city":"Beijing [u.a.]",
+	"author":"Damian Conway.",
+	"ed":"1st ed.",
+	"originalLang":"eng",
+	"year":"2005",
+	"isbn":["0596001738"],
+	"title":"Perl best practices : [standards and styles for developing maintainable code]",
+	"oclcnum":["255369299",
+	 "427567520",
+	 "438671740",
+	 "474675092",
+	 "492038933",
+	 "61231154",
+	 "716408530",
+	 "634779750"]}]}

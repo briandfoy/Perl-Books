@@ -1,0 +1,20 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/255240519?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BA"],
+	"lccn":["2006283499"],
+	"lang":"eng",
+	"city":"Sebastopol, Calif. [u.a.]",
+	"author":"chromatic with Damian Conway and Curtis \"Ovid\" Poe.",
+	"ed":"1. ed.",
+	"year":"2006",
+	"isbn":["0596526741"],
+	"title":"Perl Hacks : [tips & tools for programming, debugging and surviving]",
+	"oclcnum":["255240519",
+	 "474639653",
+	 "493849439",
+	 "69920413",
+	 "70161342",
+	 "748803236"]}]}

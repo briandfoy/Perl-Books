@@ -1,0 +1,18 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/308183036?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BA"],
+	"lccn":["2010487180"],
+	"lang":"eng",
+	"city":"Beijing",
+	"author":"David N. Blank-Edelman.",
+	"ed":"2nd ed., Rev. & expanded.",
+	"year":"2009",
+	"isbn":["059600639X"],
+	"title":"Automating system administration with Perl",
+	"oclcnum":["308183036",
+	 "494573575",
+	 "552170087",
+	 "716989123"]}]}

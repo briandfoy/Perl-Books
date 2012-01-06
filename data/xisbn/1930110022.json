@@ -1,0 +1,17 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/44785699?referer=xid"],
+	"publisher":"Manning",
+	"form":["BC"],
+	"lccn":["2002284435"],
+	"lang":"eng",
+	"city":"Greenwich",
+	"author":"Martien Verbruggen.",
+	"year":"2002",
+	"isbn":["1930110022"],
+	"title":"Graphics programming with Perl",
+	"oclcnum":["44785699",
+	 "495479338",
+	 "636218687",
+	 "78025165"]}]}

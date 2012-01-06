@@ -1,0 +1,16 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/730023002?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BC"],
+	"lang":"und",
+	"city":"Beijing [u.a.]",
+	"author":"Randal L. Schwartz.",
+	"ed":"6th ed.",
+	"isbn":["1449303587"],
+	"title":"Learning Perl",
+	"oclcnum":["730023002",
+	 "739903612",
+	 "745962279",
+	 "746303303"]}]}

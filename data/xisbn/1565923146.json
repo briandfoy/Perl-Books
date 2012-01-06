@@ -1,0 +1,23 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/184751799?referer=xid"],
+	"publisher":"England : O'Reilly and Associates",
+	"form":["BA"],
+	"lccn":["00500681"],
+	"lang":"eng",
+	"city":"Beijing [u.a.]",
+	"author":"Nancy Walsh.",
+	"ed":"1. ed.",
+	"year":"1998",
+	"isbn":["1565923146"],
+	"title":"Learning perl.",
+	"oclcnum":["184751799",
+	 "245739274",
+	 "42972183",
+	 "450893512",
+	 "468497986",
+	 "473957527",
+	 "613677606",
+	 "634492641",
+	 "722710305"]}]}

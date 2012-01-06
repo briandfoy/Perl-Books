@@ -1,0 +1,16 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/449843669?referer=xid"],
+	"publisher":"Apress",
+	"form":["BA"],
+	"lang":"eng",
+	"city":"New York",
+	"author":"James Lee with Simon Cozens.",
+	"ed":"3rd ed.",
+	"year":"2010",
+	"isbn":["1430227931"],
+	"title":"Beginning Perl",
+	"oclcnum":["449843669",
+	 "690751654",
+	 "705973490"]}]}

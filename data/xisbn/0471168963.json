@@ -1,0 +1,23 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/223068771?referer=xid"],
+	"publisher":"Wiley Computer Publishing",
+	"form":["AA",
+	 "BC"],
+	"lccn":["97013304"],
+	"lang":"eng",
+	"city":"New York",
+	"author":"[Craig Patchett and Matthew Wright].",
+	"year":"1998",
+	"isbn":["0471168963"],
+	"title":"CD-ROM to accompany CGI/Perl cookbook",
+	"oclcnum":["223068771",
+	 "258569272",
+	 "264909288",
+	 "299626074",
+	 "312880657",
+	 "314908866",
+	 "37011215",
+	 "464873448",
+	 "479264677"]}]}

@@ -1,0 +1,20 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/254564048?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BA"],
+	"lccn":["2005296261"],
+	"lang":"eng",
+	"city":"Beijing [u.a.]",
+	"author":"Ian Langworth & chromatic.",
+	"ed":"1st ed.",
+	"year":"2005",
+	"isbn":["0596100922"],
+	"title":"Perl testing : a developer's notebook ; [testing strategies, testing whole applications, testing Perl & non-Perl code, helpful testing libraries]",
+	"oclcnum":["254564048",
+	 "474675072",
+	 "494162341",
+	 "61231553",
+	 "63170484",
+	 "716864452"]}]}

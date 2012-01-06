@@ -1,0 +1,18 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/45315101?referer=xid"],
+	"publisher":"New Riders",
+	"form":["BA"],
+	"lccn":["00100521"],
+	"lang":"eng",
+	"city":"Indianapolis, Ind.",
+	"author":"Dave Roth.",
+	"ed":"1st ed.",
+	"year":"2000",
+	"isbn":["1578702151"],
+	"title":"Win32 Perl programming : the administrator's handbook",
+	"oclcnum":["45315101",
+	 "45683263",
+	 "59508409",
+	 "716367864"]}]}

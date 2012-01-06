@@ -1,0 +1,20 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/427450836?referer=xid"],
+	"publisher":"Samsl",
+	"form":["BA",
+	 "DA"],
+	"lccn":["2001096226"],
+	"lang":"eng",
+	"city":"Indianapolis, IN",
+	"author":"by Steve Oualline.",
+	"ed":"1st ed.",
+	"year":"2002",
+	"isbn":["073571228X"],
+	"title":"Perl for C Programmers",
+	"oclcnum":["427450836",
+	 "50435973",
+	 "51053923",
+	 "636599902",
+	 "733802633"]}]}

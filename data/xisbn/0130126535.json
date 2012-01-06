@@ -1,0 +1,23 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/41445778?referer=xid"],
+	"publisher":"Prentice Hall PTR",
+	"form":["BC",
+	 "DA"],
+	"lccn":["99032974"],
+	"lang":"eng",
+	"city":"Upper Saddle River, NJ",
+	"author":"Micah Brown, Chris Bellew, Dan Livingston.",
+	"ed":"Reprint. with corr., [Nachdr.].",
+	"year":"1999",
+	"isbn":["0130126535"],
+	"title":"Essential Perl 5 for Web professionals",
+	"oclcnum":["41445778",
+	 "41467503",
+	 "464066555",
+	 "493119729",
+	 "60649955",
+	 "633666015",
+	 "697596836",
+	 "731202808"]}]}

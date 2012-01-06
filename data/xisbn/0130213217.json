@@ -1,0 +1,16 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/222732317?referer=xid"],
+	"publisher":"Prentice Hall",
+	"form":["BC"],
+	"lccn":["00689012"],
+	"lang":"eng",
+	"city":"Upper Saddle River, N.J.",
+	"author":"Jesse Feiler.",
+	"year":"1999",
+	"isbn":["0130213217"],
+	"title":"Perl 5 programmers notebook",
+	"oclcnum":["222732317",
+	 "41467440",
+	 "717176520"]}]}

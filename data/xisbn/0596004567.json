@@ -1,0 +1,22 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/237895776?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BC"],
+	"lccn":["2006271560"],
+	"lang":"eng",
+	"city":"Beijing, [Chine]",
+	"author":"Simon Cozens.",
+	"ed":"2nd ed.",
+	"year":"2005",
+	"isbn":["0596004567"],
+	"title":"Advanced Perl programming",
+	"oclcnum":["237895776",
+	 "254232516",
+	 "438533346",
+	 "474572093",
+	 "491643023",
+	 "58828415",
+	 "61372498",
+	 "63298032"]}]}

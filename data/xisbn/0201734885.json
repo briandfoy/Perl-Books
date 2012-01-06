@@ -1,0 +1,20 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/225927362?referer=xid"],
+	"publisher":"Addison-Wesley",
+	"form":["BC",
+	 "DA"],
+	"lang":"eng",
+	"city":"Boston, [Mass.]",
+	"author":"Martin C. Brown.",
+	"year":"2001",
+	"isbn":["0201734885"],
+	"title":"Perl to Python migration",
+	"oclcnum":["225927362",
+	 "247976433",
+	 "427450842",
+	 "464307161",
+	 "47355821",
+	 "491427879",
+	 "637674335"]}]}

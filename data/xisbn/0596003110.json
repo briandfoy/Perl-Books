@@ -1,0 +1,23 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/123159743?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BC"],
+	"lccn":["2002070421"],
+	"lang":"eng",
+	"city":"Sebastopol, CA",
+	"author":"edited by Jon Orwant.",
+	"ed":"1st ed.",
+	"year":"2003",
+	"isbn":["0596003110"],
+	"title":"Web graphics & Perl/TK : best of the Perl journal",
+	"oclcnum":["123159743",
+	 "223257912",
+	 "248878628",
+	 "309872937",
+	 "441762975",
+	 "472806410",
+	 "49698897",
+	 "636221414",
+	 "723150084"]}]}

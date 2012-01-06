@@ -1,0 +1,23 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/257887957?referer=xid"],
+	"publisher":"Addison-Wesley",
+	"form":["BA"],
+	"lccn":["96001587"],
+	"lang":"eng",
+	"city":"Reading, Mass. [u.a.]",
+	"author":"Thomas Boutell.",
+	"ed":"6. print.",
+	"year":"1996",
+	"isbn":["0201422190"],
+	"title":"CGI programming in C & Perl : [featuring C and perl 5 source code]",
+	"oclcnum":["257887957",
+	 "34191055",
+	 "438889672",
+	 "469796474",
+	 "612687230",
+	 "613496930",
+	 "633948853",
+	 "634081187",
+	 "639628498"]}]}

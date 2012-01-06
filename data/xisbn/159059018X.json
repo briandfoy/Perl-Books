@@ -1,0 +1,17 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/248372574?referer=xid"],
+	"publisher":"Apress",
+	"form":["BA"],
+	"lang":"eng",
+	"city":"San Francisco, Calif.",
+	"author":"Sam Tregar.",
+	"year":"2002",
+	"isbn":["159059018X"],
+	"title":"Writing Perl modules for CPAN",
+	"oclcnum":["248372574",
+	 "314168009",
+	 "470115629",
+	 "472526994",
+	 "50099700"]}]}

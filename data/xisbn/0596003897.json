@@ -1,0 +1,22 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/464090591?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BC",
+	 "DA"],
+	"lang":"eng",
+	"city":"Sebastopol, Calif.",
+	"author":"Nathan Patwardhan, Ellen Siever and Stephen Spainhour. [Ed.: Linda Mui]",
+	"ed":"Version 3.0.",
+	"year":"2002",
+	"isbn":["0596003897"],
+	"title":"The Perl CD bookshelf, 3.0.",
+	"oclcnum":["464090591",
+	 "50853134",
+	 "59462993",
+	 "638403446",
+	 "723186382",
+	 "80140978",
+	 "704188780",
+	 "174529036"]}]}

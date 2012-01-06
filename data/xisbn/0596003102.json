@@ -1,0 +1,23 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/219607111?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BC"],
+	"lccn":["2002025251"],
+	"lang":"eng",
+	"city":"Beijing",
+	"author":"edited by Jon Orwant.",
+	"ed":"1st ed.",
+	"year":"2002",
+	"isbn":["0596003102"],
+	"title":"Computer science and Perl programming best of the Perl Journal",
+	"oclcnum":["219607111",
+	 "223147847",
+	 "237052129",
+	 "440785805",
+	 "471850391",
+	 "493259003",
+	 "49375466",
+	 "50613774",
+	 "636599850"]}]}

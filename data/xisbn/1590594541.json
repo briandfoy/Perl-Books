@@ -1,0 +1,19 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/249427344?referer=xid"],
+	"publisher":"Apress",
+	"form":["BA"],
+	"lccn":["2005016006"],
+	"lang":"eng",
+	"city":"Berkeley, Calif.",
+	"author":"Richard Foley with Andy Lester.",
+	"year":"2005",
+	"isbn":["1590594541"],
+	"title":"Pro Perl debugging : from professional to expert ; [learn how to identify and resolve elusive bugs faster and more efficiently with the Perl debugger]",
+	"oclcnum":["249427344",
+	 "300219855",
+	 "318298043",
+	 "60590094",
+	 "64668426",
+	 "690009006"]}]}

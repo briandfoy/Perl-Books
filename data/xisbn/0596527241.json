@@ -1,0 +1,21 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/177827703?referer=xid"],
+	"publisher":"O'Reilly Media",
+	"form":["BC"],
+	"lccn":["2007278092"],
+	"lang":"eng",
+	"city":"Sebastopol, CA",
+	"author":"Brian D. Foy ; foreward by Randal L. Schwartz.",
+	"ed":"1. ed.",
+	"year":"2007",
+	"isbn":["0596527241"],
+	"title":"Mastering Perl",
+	"oclcnum":["177827703",
+	 "183318192",
+	 "255831067",
+	 "302206819",
+	 "441701829",
+	 "475010263",
+	 "494319880"]}]}

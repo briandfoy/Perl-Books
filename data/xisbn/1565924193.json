@@ -1,0 +1,23 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/247403441?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BA",
+	 "DA"],
+	"lccn":["00041664"],
+	"lang":"eng",
+	"city":"Beijing [u.a.]",
+	"author":"Scott Guelich, Shishir Gundavaram and Gunther Birznieks.",
+	"ed":"2. ed., expanded & updated.",
+	"year":"2000",
+	"isbn":["1565924193"],
+	"title":"CGI programming with Perl : [creating dynamic web pages]",
+	"oclcnum":["247403441",
+	 "315104925",
+	 "427450713",
+	 "44128510",
+	 "460747717",
+	 "468570767",
+	 "639079043",
+	 "639935237"]}]}

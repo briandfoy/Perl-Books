@@ -1,0 +1,22 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/247565048?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BC"],
+	"lccn":["00055770"],
+	"lang":"eng",
+	"city":"Beijing [u.a.]",
+	"author":"David N. Blank-Edelman.",
+	"ed":"1. ed.",
+	"year":"2000",
+	"isbn":["1565926099"],
+	"title":"Perl for system administration : [managing multiplatform environments with Perl]",
+	"oclcnum":["247565048",
+	 "300133967",
+	 "427561916",
+	 "44425560",
+	 "444612035",
+	 "474250297",
+	 "490939785",
+	 "636961622"]}]}

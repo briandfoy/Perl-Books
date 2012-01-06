@@ -1,0 +1,21 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/249181968?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BA"],
+	"lccn":["2004558990"],
+	"lang":"eng",
+	"city":"Beijing [u.a.]",
+	"author":"Allison Randal; Dan Sugalski and Leopold TÃ¶tsch.",
+	"ed":"2. ed.",
+	"year":"2004",
+	"isbn":["059600737X"],
+	"title":"Perl 6 and Parrot essentials : [the community's rewrite of Perl]",
+	"oclcnum":["249181968",
+	 "475476548",
+	 "494693929",
+	 "55893441",
+	 "636136605",
+	 "717542312",
+	 "733955587"]}]}

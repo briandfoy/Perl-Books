@@ -1,0 +1,22 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/248077482?referer=xid"],
+	"publisher":"Addison-Wesley",
+	"form":["BC",
+	 "DA"],
+	"lccn":["00067574"],
+	"lang":"eng",
+	"city":"Boston, Mass. [u.a.]",
+	"author":"Lincoln Stein.",
+	"year":"2001",
+	"isbn":["0201615711"],
+	"title":"Network programming with Perl",
+	"oclcnum":["248077482",
+	 "427450734",
+	 "442119058",
+	 "45460942",
+	 "477061720",
+	 "492595076",
+	 "637162842",
+	 "697745857"]}]}

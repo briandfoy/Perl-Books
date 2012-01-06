@@ -1,0 +1,15 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/247417909?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BA"],
+	"lccn":["00055759"],
+	"lang":"eng",
+	"city":"Cambridge, Mass",
+	"ed":"1st ed.",
+	"year":"2000",
+	"isbn":["0596000138"],
+	"title":"Proceedings of the Perl Conference 4.0 : July 17-20, 2000, Monterey, California.",
+	"oclcnum":["247417909",
+	 "44425559"]}]}

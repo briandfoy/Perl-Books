@@ -1,0 +1,19 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/427561932?referer=xid"],
+	"publisher":"Prentice Hall",
+	"form":["BC"],
+	"lccn":["2002030774"],
+	"lang":"eng",
+	"city":"Upper Saddle River, New Jersey",
+	"author":"Yevgeny Menaker, Michael Saltzman, Robert J. Oberg.",
+	"year":"2003",
+	"isbn":["0130652067"],
+	"title":"Programming PERL in the .NET environment",
+	"oclcnum":["427561932",
+	 "471752267",
+	 "48065380",
+	 "50417402",
+	 "636599863",
+	 "697785395"]}]}

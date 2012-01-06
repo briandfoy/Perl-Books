@@ -1,0 +1,20 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/319984551?referer=xid"],
+	"publisher":"Sams ; Prentice Hall",
+	"form":["BC"],
+	"lccn":["00105848"],
+	"lang":"eng",
+	"city":"Indianapolis, Ind. : Hemel Hempstead",
+	"author":"Laura Lemay.",
+	"ed":"2nd ed. / with revisions by Rafe Colburn.",
+	"year":"2001",
+	"isbn":["0672320355"],
+	"title":"Sams teach yourself Perl in 21 days",
+	"oclcnum":["319984551",
+	 "442555784",
+	 "470719745",
+	 "50319878",
+	 "731201876",
+	 "82768227"]}]}

@@ -1,0 +1,17 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/316213164?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BA"],
+	"lang":"ger",
+	"city":"Beijing",
+	"author":"Randal L. Schwartz ; Tom Phoenix & brian d foy. Dt. Ãbers. von JÃ¸rgen W. Lang.",
+	"ed":"[Dt. Ausg. d.] 5. Aufl.",
+	"originalLang":"eng",
+	"year":"2009",
+	"isbn":["3897218879"],
+	"title":"EinfÃ¼hrung in Perl : [behandelt Perl 5.10]",
+	"oclcnum":["316213164",
+	 "402447500",
+	 "701029022"]}]}

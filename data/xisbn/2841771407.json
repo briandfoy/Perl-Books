@@ -1,0 +1,17 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/469351286?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BA"],
+	"lang":"fre",
+	"city":"Cambridge",
+	"author":"Larry Wall, Tom Christiansen & Jon Orwant ; trad. de Philippe Bruhat, Kai Carver et GÃ©rald SÃ©drati.",
+	"ed":"3e Ã©d.",
+	"originalLang":"eng",
+	"year":"2001",
+	"isbn":["2841771407"],
+	"title":"Programmation en Perl",
+	"oclcnum":["469351286",
+	 "49653039",
+	 "633731005"]}]}

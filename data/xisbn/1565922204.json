@@ -1,0 +1,23 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/299887550?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BA"],
+	"lccn":["97202127"],
+	"lang":"eng",
+	"city":"Cambridge [u.a.]",
+	"author":"Sriram Srinivasan.",
+	"ed":"1. ed.",
+	"year":"1997",
+	"isbn":["1565922204"],
+	"title":"Advanced Perl programming : [foundations and techniques for Perl application developers]",
+	"oclcnum":["299887550",
+	 "37613096",
+	 "424442426",
+	 "437954340",
+	 "468882232",
+	 "472123692",
+	 "636659625",
+	 "722982901",
+	 "43840862"]}]}

@@ -1,0 +1,17 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/224703421?referer=xid"],
+	"publisher":"Prentice Hall",
+	"form":["BA"],
+	"lccn":["99051528"],
+	"lang":"eng",
+	"city":"Upper Saddle River, NJ",
+	"author":"by Robert Sebesta.",
+	"year":"1999",
+	"isbn":["0139279555"],
+	"title":"A little book on Perl",
+	"oclcnum":["224703421",
+	 "247820944",
+	 "42641758",
+	 "717914761"]}]}

@@ -1,0 +1,13 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/62739313?referer=xid"],
+	"publisher":"Scott/Jones",
+	"form":["BA"],
+	"lang":"eng",
+	"city":"El Granada, CA",
+	"author":"Elizabeth B. Chang.",
+	"year":"2004",
+	"isbn":["1576761126"],
+	"title":"Practical Perl with CGI applications",
+	"oclcnum":["62739313"]}]}

@@ -1,0 +1,21 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/166372017?referer=xid"],
+	"publisher":"CRC Press",
+	"form":["BB"],
+	"lccn":["2009003714"],
+	"lang":"eng",
+	"city":"Boca Raton",
+	"author":"Gabriel Valiente.",
+	"year":"2009",
+	"isbn":["142006973X"],
+	"title":"Combinatorial pattern matching algorithms in computational biology using Perl and R",
+	"oclcnum":["166372017",
+	 "302075877",
+	 "367856081",
+	 "428967105",
+	 "461258540",
+	 "495201254",
+	 "741541562",
+	 "449716565"]}]}

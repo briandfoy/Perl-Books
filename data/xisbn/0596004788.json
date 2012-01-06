@@ -1,0 +1,20 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/248846681?referer=xid"],
+	"publisher":"O'Reilly",
+	"form":["BC"],
+	"lang":"eng",
+	"city":"Beijing [u.a.]",
+	"author":"Randal L. Schwartz with Tom Phoenix.",
+	"ed":"1. ed.",
+	"year":"2003",
+	"isbn":["0596004788"],
+	"title":"Learning Perl objects, references, and modules : [beyond the basis of learning Perl]",
+	"oclcnum":["248846681",
+	 "464135660",
+	 "53389178",
+	 "637062270",
+	 "68190418",
+	 "689516229",
+	 "79084439"]}]}

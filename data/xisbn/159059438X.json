@@ -1,0 +1,22 @@
+{
+ "stat":"ok",
+ "list":[{
+	"url":["http://www.worldcat.org/oclc/254117114?referer=xid"],
+	"publisher":"Apress",
+	"form":["BC"],
+	"lccn":["2005299870"],
+	"lang":"eng",
+	"city":"Berkeley, Calif.",
+	"author":"Peter Wainwright.",
+	"year":"2005",
+	"isbn":["159059438X"],
+	"title":"Pro Perl : [a comprehensive guide for developers who want to master the Perl programming language]",
+	"oclcnum":["254117114",
+	 "300219007",
+	 "318298042",
+	 "428739792",
+	 "442152758",
+	 "475148821",
+	 "58837627",
+	 "690009005",
+	 "262677716"]}]}
